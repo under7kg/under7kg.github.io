@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Under7kg</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Under7kg</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>under7kg@pm.me (jin)</managingEditor>
+    <webMaster>under7kg@pm.me (jin)</webMaster>
+    <lastBuildDate>Wed, 08 May 2024 12:39:15 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 08 May 2024 12:39:15 +0700</pubDate><author>under7kg@pm.me (jin)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Under Construction.&#xA;Pack light and Go! 履歴 2024-05-08: とりあえず骨組みを整える。 </description>
+    </item>
+  </channel>
+</rss>
