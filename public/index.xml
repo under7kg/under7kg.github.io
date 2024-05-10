@@ -15,7 +15,7 @@
       <link>http://localhost:1313/posts/site-openning/</link>
       <pubDate>Fri, 10 May 2024 10:07:31 +0700</pubDate><author>under7kg@pm.me (jin)</author>
       <guid>http://localhost:1313/posts/site-openning/</guid>
-      <description>やっとこさ重い腰を上げて、サイトを構築しました。 お気に入りの静的サイトジェネレータHugoを使い、 ホスティングはGithub Pgeを利用されていただきます。&#xA;Github Actionを使って、サイトの更新を簡略化、 Githubにプッシュ（更新）＋サイトの再構築が自動！！&#xA;便利になりましたな。&#xA;サイトのテーマは、PureCSSベースの Temple を使わせてもらいました。&#xA;日本語フォント表示が少し詰まるようなので、 ガリガリいじる予定。&#xA;取り敢えず、ご挨拶まで、&#xA;Jin&#xA;HugoとGithubの設定 Hugoの設定は、 Quick start より簡単に構築できます。&#xA;Github設定は、基本的に使い方を知っている人であれば、 Hugo公式サイトの Host on GitHub Pages で一発でした。</description>
+      <description>やっとこさ重い腰を上げて、サイトをアップしました。 お気に入りの静的サイトジェネレータHugoを使い、 ホスティングはGithub Pgeを利用されていただきます。&#xA;Github Actionを使って、サイトの更新を簡略化、 Githubにプッシュ（更新）git push -u origin mainでサイトの再構築！！&#xA;便利になりましたな。&#xA;テーマは、他のサイトでも利用させてもらっているPureCSSをベースにした Temple を使わせてもらいました。&#xA;日本語フォント表示が少し詰まるようなので、 ガリガリいじる予定。&#xA;取り敢えず、ご挨拶まで、&#xA;Jin&#xA;参照：HugoとGithubの設定 Hugoの設定は、 Quick start より簡単に構築できます。&#xA;Github設定は、基本的に使い方を知っている人であれば、 Hugo公式サイトの Host on GitHub Pages で一発、よく纏められています。</description>
     </item>
     <item>
       <title>about</title>
