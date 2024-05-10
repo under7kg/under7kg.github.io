@@ -3,12 +3,17 @@ title: 'about'
 date: 2024-05-08T12:39:15+07:00
 ---
 
-Under Construction.
+旅に出ましょう！
 
 ## Pack light and Go!
+
+旅の情報（ぼやき）などを発信。  
+NostrやBlueSkyも使ってます。
+
 
 ---
 
 ## 履歴
 
++ 2024-05-10: Github Actionを導入、最初の投稿チェック。
 + 2024-05-08: とりあえず骨組みを整える。
