@@ -17,10 +17,20 @@ pygmentsCodeFences = true
   # Enables the topmenu, which pulls from categories
   topmenu = "categories"
 
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser.attribute]
+      block = true
+      title = true
+
+
 # Builds a list page for each category given
-[taxonomies]
-  tag = "tags"
-  category = "categories"
+#[taxonomies]
+#  tag = "tags"
+#  category = "categories"
 
 [author]
   name = "jin"

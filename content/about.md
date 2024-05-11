@@ -3,12 +3,15 @@ title: 'about'
 date: 2024-05-08T12:39:15+07:00
 ---
 
-旅に出ましょう！
+旅の情報（ぼやき）などを発信。  
+NostrやBlueSkyも使ってます。
+
+
 
 ## Pack light and Go!
 
-旅の情報（ぼやき）などを発信。  
-NostrやBlueSkyも使ってます。
+旅に出ましょう！
+
 
 
 ---

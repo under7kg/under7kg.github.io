@@ -30,6 +30,7 @@ kbd, pre, code, samp {
 }
 
 .pure-menu-heading {
+  padding-bottom: 0px;
   text-transform: none;
   font-size: large;
 }
@@ -67,7 +68,7 @@ kbd, pre, code, samp {
   color: #484848;
   color: var(--color);
   text-transform: none;
-  font-weight: normal;
+  font-weight: bold;
   font-family: "Source Sans Pro", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -112,7 +113,7 @@ kbd, pre, code, samp {
   color: #575757;
   color: var(--color-footnote);
   font-size: 0.75em;
-  margin-bottom: 0;
+  margin-bottom: 0.75em;
 }
 
 .footnote a {
@@ -135,6 +136,7 @@ kbd, pre, code, samp {
 }
 
 .footer-content {
+  padding: 10px;
   border-top-width: 1px;
   border-top-style: solid;
   border-top-color: #e3e3e3;
