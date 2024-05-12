@@ -1,15 +1,23 @@
 <div class="footer pure-g">
   <div class="pure-u-1">
+    <!-- <div style="margin-top:-26px; margin-left:-13px;"><img src="/images/site/footer-smoking-cat.png" alt="Smoking Cat" /></div> -->
+    <div style="margin-left:13px;"><img src="/images/site/footer-owl.png" alt="Owl" /></div>
     <div class="footer-content">
       <div class="pure-menu pure-menu-horizontal">
         <ul>
-          {{ if .Site.Author.name }}
+          <!-- {{ if .Site.Author.name }}
           <li class="pure-menu-item" id="foot-name">by {{ .Site.Author.name }}</li>
-          {{ end }}
+          {{ end }} -->
 
           {{ if .Site.Author.email }}
           <li class="pure-menu-item">
             <a href="mailto:{{ .Site.Author.email }}" class="pure-menu-link">e-mail</a>
+          </li>
+          {{ end }}
+
+          {{ with .OutputFormats.Get "RSS" }}
+          <li class="pure-menu-item">
+            <a href="{{ .RelPermalink }}" class="pure-menu-link">rss</a>
           </li>
           {{ end }}
 
@@ -38,9 +46,7 @@
           {{ end }}
         </ul>
         <a href="#" class="pure-menu-link pull-right" id="gototop-btn">↑↑</a>
-        {{ with .OutputFormats.Get "RSS" }}
-        <a href="{{ .RelPermalink }}" class="pure-menu-link pull-right">rss</a>
-        {{ end }}
+        <dev class="pure-menu-link pull-right">here & now @ 🇹🇭</dev>
       </div>
       {{ if .Site.Copyright }}
       <p id="foot-copyright">{{ .Site.Copyright | safeHTML }}</p>

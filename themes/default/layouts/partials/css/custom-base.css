@@ -137,6 +137,7 @@ kbd, pre, code, samp {
 
 .footer-content {
   padding: 10px;
+  margin-top: -7.5px; // For Owl Icon
   border-top-width: 1px;
   border-top-style: solid;
   border-top-color: #e3e3e3;
