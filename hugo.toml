@@ -16,6 +16,15 @@ pygmentsCodeFences = true
 [params]
   # Enables the topmenu, which pulls from categories
   topmenu = "categories"
+  [author]
+    name = "jin"
+    github = "under7kg"
+    email = "under7kg@pm.me"
+    #gaid = "Your Google Analytics ID"
+    bluesky = "ukigumo.bsky.social"
+    nostr = "npub1c0pw59sdy4euuy7ghaxtkm73ug6gm8puhjw3fy4wtes6caxt8zasufn4de"
+    #zap = "ukigumo@getalby.com"
+
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -32,14 +41,6 @@ pygmentsCodeFences = true
 #  tag = "tags"
 #  category = "categories"
 
-[author]
-  name = "jin"
-  github = "under7kg"
-  email = "under7kg@pm.me"
-  #gaid = "Your Google Analytics ID"
-  bluesky = "ukigumo.bsky.social"
-  nostr = "npub1c0pw59sdy4euuy7ghaxtkm73ug6gm8puhjw3fy4wtes6caxt8zasufn4de"
-  #zap = "ukigumo@getalby.com"
 
 
 

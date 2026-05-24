@@ -5,13 +5,13 @@
     <div class="footer-content">
       <div class="pure-menu pure-menu-horizontal">
         <ul>
-          <!-- {{ if .Site.Author.name }}
-          <li class="pure-menu-item" id="foot-name">by {{ .Site.Author.name }}</li>
+          <!-- {{ if .Site.Params.author.name }}
+          <li class="pure-menu-item" id="foot-name">by {{ .Site.Params.author.name }}</li>
           {{ end }} -->
 
-          {{ if .Site.Author.email }}
+          {{ if .Site.Params.author.email }}
           <li class="pure-menu-item">
-            <a href="mailto:{{ .Site.Author.email }}" class="pure-menu-link">e-mail</a>
+            <a href="mailto:{{ .Site.Params.author.email }}" class="pure-menu-link">e-mail</a>
           </li>
           {{ end }}
 
@@ -21,32 +21,32 @@
           </li>
           {{ end }}
 
-          {{ if .Site.Author.github }}
+          {{ if .Site.Params.author.github }}
           <li class="pure-menu-item">
-            <a href="https://github.com/{{ .Site.Author.github }}" class="pure-menu-link">github</a>
+            <a href="https://github.com/{{ .Site.Params.author.github }}" class="pure-menu-link">github</a>
           </li>
           {{ end }}
 
-          {{ if .Site.Author.bluesky }}
+          {{ if .Site.Params.author.bluesky }}
           <li class="pure-menu-item">
-            <a href="https://bsky.app/profile/{{ .Site.Author.bluesky }}" class="pure-menu-link">bluesky</a>
+            <a href="https://bsky.app/profile/{{ .Site.Params.author.bluesky }}" class="pure-menu-link">bluesky</a>
           </li>
           {{ end }}
 
-          {{ if .Site.Author.nostr }}
+          {{ if .Site.Params.author.nostr }}
           <li class="pure-menu-item">
-            <a href="https://primal.net/p/{{ .Site.Author.nostr }}" class="pure-menu-link">nostr</a>
+            <a href="https://primal.net/p/{{ .Site.Params.author.nostr }}" class="pure-menu-link">nostr</a>
           </li>
           {{ end }}
 
-          {{ if .Site.Author.zap }}
+          {{ if .Site.Params.author.zap }}
           <li class="pure-menu-item">
             <div class="pure-menu-link">zap: ukigumo@getalby.com</div>
           </li>
           {{ end }}
         </ul>
         <a href="#" class="pure-menu-link pull-right" id="gototop-btn">↑↑</a>
-        <dev class="pure-menu-link pull-right">here & now @ 🇹🇭</dev>
+        <dev class="pure-menu-link pull-right">here 🇹🇭 now</dev>
       </div>
       {{ if .Site.Copyright }}
       <p id="foot-copyright">{{ .Site.Copyright | safeHTML }}</p>
@@ -70,13 +70,13 @@
 <script type="text/javascript">
   var a=document.querySelector("#toggle-btn"),b=document.querySelector("#toggle-content");a.addEventListener("click",function(){""==b.style.display?(b.style.display="none",a.innerHTML="☰"):(b.style.display="",a.innerHTML="X")});</script>
 <!-- Google analytics -->
-{{ if .Site.Author.gaid }}
+{{ if .Site.Params.author.gaid }}
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', '{{ .Site.Author.gaid }}', 'auto');
+  ga('create', '{{ .Site.Params.author.gaid }}', 'auto');
   ga('send', 'pageview');
 </script>
 {{ end }}
