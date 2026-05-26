@@ -250,6 +250,12 @@ kbd, pre, code, samp {
   font-size: 18px;
 }
 
+.post hr {
+  border: none;
+  height: 3px;
+  background-color: #dedede;
+}
+
 .post-title {
   margin-top: 0;
   margin-bottom: 1em;
