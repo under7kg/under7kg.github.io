@@ -1,11 +1,11 @@
 ---
 layout: page
 slug: travel/backpacker
-title: "旅の必需品：バックパッカー編"
-subtitle: "今までの旅行経験から導き出した優れもの必須アイテムと持ち物リストです。重さは全部でだいたい12キロぐらいです。"
+title: 旅の必需品：バックパッカー編
+subtitle: 今までの旅行経験から導き出した優れもの必須アイテムと持ち物リストです。重さは全部でだいたい12キロぐらいです。
 date: 2012-09-26T14:38:00+09:00
 updated: 2012-09-30 01:20
-comments: true
+comments: false
 sharing: true
 footer: true
 ---

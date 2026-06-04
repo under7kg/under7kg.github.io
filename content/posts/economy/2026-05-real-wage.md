@@ -1,9 +1,11 @@
 ---
-title: "実質賃金の目減り原因と回復シナリオ"
-slug: "jp-real-wage"
-date: "2026-05-27T10:00:30+04:00"
-category: finance
-tag: wage
+title: 実質賃金の目減り原因と回復シナリオ
+slug: jp-real-wage
+date: 2026-05-27T10:00:30+04:00
+categories: [ wealth ]
+tags: [ wage, inflation, macroeconomics ]
+ShowToc: true
+TocOpen: true
 comments: false
 ---
 

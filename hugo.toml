@@ -1,29 +1,37 @@
-title = 'Under7kg'
-baseURL = 'https://under7kg.github.io/'
-
+title = 'Under7kg | the art of lightness'
+baseURL = 'https://under7kg.pages.dev/'
 languageCode = 'en-us'
-theme = 'default'
+#theme = 'default'
+#theme = 'temple'
+theme = "PaperMod"
+
 
 # Enables Chroma-based syntax highlighting with theme "friendly"
 # See https://xyproto.github.io/splash/docs/ for other theme options
 pygmentsStyle = "friendly"
-
-# If true, Chroma will highlight GitHub-style code fences in addition to
-# highlight shortcodes
 pygmentsCodeFences = true
 
-[params]
-  # Enables the topmenu, which pulls from categories
-  topmenu = "categories"
-  [author]
-    name = "jin"
-    github = "under7kg"
-    email = "under7kg@pm.me"
-    #gaid = "Your Google Analytics ID"
-    bluesky = "ukigumo.bsky.social"
-    nostr = "npub1c0pw59sdy4euuy7ghaxtkm73ug6gm8puhjw3fy4wtes6caxt8zasufn4de"
-    #zap = "ukigumo@getalby.com"
 
+# [permalinks]
+#   single = "/blog/:slug/"
+#   mono = "/mono/:slug/"
+
+[params]
+  topmenu = "categories"
+  ShowReadingTime = true
+#  ShowBreadCrumbs = true
+#  ShowToc = true
+#  TocOpen = true
+
+
+
+  #[params.author]
+    #name = "jin"
+    #github = "under7kg"
+    #email = "under7kg@pm.me"
+    #bluesky = "ukigumo.bsky.social"
+    #nostr = "npub1c0pw59sdy4euuy7ghaxtkm73ug6gm8puhjw3fy4wtes6caxt8zasufn4de"
+    #zap = "ukigumo@getalby.com"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -34,14 +42,26 @@ pygmentsCodeFences = true
       block = true
       title = true
 
+# taxonomies の修正
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
-# Builds a list page for each category given
-#[taxonomies]
-#  tag = "tags"
-#  category = "categories"
+# メニュー設定
+[[menu.main]]
+  identifier = "categories"
+  name = "categories"
+  url = "/categories/"
+  weight = 10
 
+[[menu.main]]
+  identifier = "tags"
+  name = "tags"
+  url = "/tags/"
+  weight = 20
 
-
-
-# If not set, it will not appear. Otherwise it will show below your footer links
-#copyright = "(c) 2024 Jin"
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  url = "/about/"
+  weight = 30

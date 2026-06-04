@@ -11,3 +11,43 @@
     --list-link-color: #336699;
     --border-navbar-and-footer: #e3e3e3;
 }
+
+/** Blockquote */
+
+blockquote{
+    font-size: 1.0em;
+    width:80%;
+    margin:10px 0px 10px 0px;
+    /*
+     font-family:Open Sans;
+     */
+    font-style:italic;
+    color: #555555;
+    padding: 1.2em;
+    border-left :6px solid #78C0A8 ;
+    line-height: 1.6;
+    position: relative;
+    background: #EDEDED;
+}
+
+blockquote::before{
+    font-family: Arial;
+    content: "\201C";
+    color: #78C0A8;
+    font-size: 3.5em;
+    position: absolute;
+    left: 5px;
+    top: -10px;
+}
+
+blockquote::after{
+    content: '';
+}
+
+blockquote span{
+    display: block;
+    color: #333333;
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 1em;
+}

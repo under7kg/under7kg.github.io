@@ -2,8 +2,10 @@
 title: "航空運賃が紛争前水準に戻るまでの時間"
 slug: "flight-price"
 date: "2026-05-21T10:07:30+09:00"
-category: nomad
-tag: airticket, booking, geopolitics
+categories: [ nomad ]
+tags: [ airticket, booking, geopolitics ]
+ShowToc: true
+TocOpen: true
 comments: false
 ---
 
@@ -19,7 +21,7 @@ comments: false
 
 > 「今から7〜8ヶ月先の旅行でも、今すぐ予約する方がリスクが低い。停戦を待って安くなるのを期待するのは危険だ。」
 
-🌾 自分：今年中のチケット(Tbilisi->India->Thai) は全て4月中に手配した！来年3月以降のチケットはちょっと予定が掴めないのでHOLD。
+🌾 自分：2026年内のチケット(Tbilisi->India->Thai) は全て3月中に手配！来年3月以降のチケットはちょっと予定が掴めないのでHOLD。
 
 ## 現在の値上がり幅
 
@@ -28,10 +30,10 @@ comments: false
 | 指標 | 数値 | ソース |
 |---|---|---|
 | ジェット燃料価格の上昇 | 紛争前比で**2倍超** | Reuters (IATA) |
-| 運賃全体の上昇 | 平均約**+25%** | BBC |
+| 運賃全体の上昇 | 平均約 **+25%** | BBC |
 | 欧米路線の往復運賃 | 紛争前$774→**$998**（エコノミー平均） | Kayak/CNBC |
-| ロンドン〜メルボルン | 前年比**+76%** | BBC |
-| 香港〜ロンドン | 前年比**+72%** | BBC |
+| ロンドン〜メルボルン | 前年比 **+76%** | BBC |
+| 香港〜ロンドン | 前年比 **+72%** | BBC |
 | 大西洋横断の片道先行予約 | **$1,000超**（紛争前の約2倍） | Deutsche Bank/Investopedia |
 
 **ANA・JAL 燃油サーチャージ（5月1日発券〜）**
