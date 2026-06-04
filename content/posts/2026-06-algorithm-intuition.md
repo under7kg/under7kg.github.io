@@ -1,11 +1,10 @@
 ---
 title: "アルゴリズムの檻から脱出せよ：最適化された「家畜」にならないための生存戦略"
 slug: algorithm-intuition
-date: 2026-06-02T00:00:00.000Z
+date: 2026-06-04T00:00:00.000Z
 categories: [ mindset ]
 tags: [ algorithm, intuition, survival-strategy ]
 comments: false
-draft: true
 ---
 
 私たちは今、かつてないほど「便利」で「効率的」な時代に生きている。

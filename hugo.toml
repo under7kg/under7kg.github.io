@@ -23,8 +23,6 @@ pygmentsCodeFences = true
 #  ShowToc = true
 #  TocOpen = true
 
-
-
   #[params.author]
     #name = "jin"
     #github = "under7kg"
