@@ -1,7 +1,7 @@
 ---
 title: バケット戦略（Bucket Strategy）
 slug: about-bucket-strategy
-date: 2026-06-15T10:07:30+04:00
+date: 2026-06-11T10:07:30+04:00
 categories: [ wealth ]
 tags: [ investment, bucket-strategy ]
 ShowToc: true

@@ -1,7 +1,7 @@
 ---
 title: 60歳リタイヤメント ロードマップ完全マニュアル
 slug: roadmap-for-rretirement
-date: 2026-06-15T10:07:30+04:00
+date: 2026-06-13T10:07:30+04:00
 categories: [ wealth ]
 tags: [ investment, bucket-strategy ]
 comments: false

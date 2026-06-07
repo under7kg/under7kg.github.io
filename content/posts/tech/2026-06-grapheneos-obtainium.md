@@ -1,0 +1,38 @@
+---
+title: "アプリ管理はObtainiumで一本化"
+slug: grapheneos-obtainium-app-management
+date: 2026-06-08T00:00:00+07:00
+categories: [ nomad ]
+tags: [ GrapheneOS, appstore, privacy, android ]
+comments: false
+---
+
+GrapheneOSにはGoogle Playがない。アプリの導入はF-DroidかAPKの直接入手が基本になるが、管理先が複数に渡るととアップデートの見落としが起きる。
+
+## 二刀流の限界
+
+これまでF-Droidをメインのアプリストアとし、F-Droidに登録されていないアプリは[Obtainium](https://github.com/ImranR98/Obtainium)でGitHubのリリースページから直接インストールする、「**二刀流**」で運用してきた。
+
+ところが、F-Droidには登録されているのにGitHubにはソースコードのみでリリース用APKが存在しないアプリがいくつかある。
+こうしたアプリは、F-Droidのページから手動でAPKをダウンロードしつつ、ObtainiumにはGitHubのURLを登録してアップデートの有無だけ確認する……ど〜〜もすっきりしない運用になる。
+
+## ObtainiumにF-Droid App Page urlを登録できる！
+F-DroidのアプリページURLをそのままObtainiumに登録できる。
+F-DroidのURLをObtainiumに直接登録できると分かったことで、アプリ管理の完全一本化がようやく現実的になる
+
+## お気に入りアプリ
+その他、同様の方法が使えるお気に入りアプリも確認。(スッキリ！)
+
+- **Proton Pass** : `https://f-droid.org/packages/proton.android.pass.fdroid/`
+- **AntennaPod** : `https://f-droid.org/packages/de.danoeh.antennapod/`
+- **Etar** : `https://f-droid.org/packages/ws.xsoh.etar/`
+- **Suntimes** : `https://f-droid.org/packages/com.forrestguice.suntimeswidget/`
+- **Suntimes Calendars** : `https://f-droid.org/packages/com.forrestguice.suntimescalendars/`
+
+GrapheneOS＋Obtainiumの組み合わせは、プライバシーとコントロールの両立という点でも理にかなった構成だと改めて感じる（お勧めします）。
+
+---
+
+**参照**
+- **Breezy Weather**の[インストールガイド](https://github.com/breezy-weather/breezy-weather/blob/main/INSTALL.md)
+- [GrapheneOS　中級者向けガイド](/posts/grapheneos-wise-manual)
