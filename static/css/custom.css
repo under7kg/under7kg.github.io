@@ -1,4 +1,4 @@
-html {
+/*html {
     min-height:100%;
     width:100%;
     position:relative;
@@ -82,7 +82,7 @@ code{
 
 .header ul li a {
     /* remove  May 1, 2018
-     
+
      font-weight: bold;
      */
     color: #484848;
@@ -113,7 +113,7 @@ code{
     list-style-type:none;
 	padding-left: 1em;
 	padding-bottom: 1em;
-    
+
 }
 
 .posts-name {
@@ -166,7 +166,7 @@ code{
 /** side */
 
 .panel {
-    
+
 }
 
 .panel-heading {
@@ -174,7 +174,7 @@ code{
     border-bottom: 1px solid #e3e3e3;
     margin-top: 1.5em;
     margin-bottom: 0.5em;
-    
+
 }
 
 
@@ -340,7 +340,7 @@ img.full-width {
     font-family: verdana,arial,helvetica,sans-serif;
     text-align: left;
     padding-bottom: 5em;
-    
+
 }
 
 .pagination a:first-child {
@@ -454,11 +454,11 @@ a.pure-button {
 	border-style: solid;
 	border-width: 1px;
     border-radius: 5px;
-    -webkit-border-radius: 5px; 
+    -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
-} 
+}
 
-.note { 
+.note {
 	color: rgb(3,135,177);
 	background-color: rgb(212,234,248);
 	border-color: rgb(176,234,243);
@@ -466,12 +466,12 @@ a.pure-button {
 	border-style: solid;
 	border-width: 1px;
     border-radius: 5px;
-    -webkit-border-radius: 5px; 
+    -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
-} 
+}
 
 
-.hint {  
+.hint {
 	color: rgb(31,142,66);
 	background-color: #DAF3D7;
 	border-color: #D0ECC4;
@@ -479,9 +479,9 @@ a.pure-button {
 	border-style: solid;
 	border-width: 1px;
     border-radius: 5px;
-    -webkit-border-radius: 5px; 
+    -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
-} 
+}
 
 
 @media screen and (max-width:767px){
@@ -517,4 +517,4 @@ a.pure-button {
         display: block;
     }
 }
-
+*/
