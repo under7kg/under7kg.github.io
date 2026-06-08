@@ -1,5 +1,4 @@
 ---
-layout: page
 slug: travel
 title: "ボヘミア"
 subtitle: "ボヘミアンとバックパッカーのグッズ"
@@ -61,4 +60,3 @@ footer: true
 
 
 ## お気に入り
-

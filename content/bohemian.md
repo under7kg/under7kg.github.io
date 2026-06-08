@@ -1,5 +1,4 @@
 ---
-layout: page
 slug: travel/bohemian
 title: "旅の必需品：ボヘミアン編"
 subtitle: "長年のバックパッカーからのボヘミアン生活。今までの旅行経験から導き出した優れもの必須アイテ。機動性を重視してます。"

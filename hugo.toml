@@ -11,10 +11,8 @@ theme = "PaperMod"
 pygmentsStyle = "friendly"
 pygmentsCodeFences = true
 
-
 # [permalinks]
-#   single = "/blog/:slug/"
-#   mono = "/mono/:slug/"
+#    posts = "/b/:sections[:last]/:slug/"
 
 [params]
   topmenu = "categories"
