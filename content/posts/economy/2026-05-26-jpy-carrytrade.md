@@ -2,7 +2,7 @@
 title: 日本円キャリートレードとは
 slug: jpy-carrytrade-prelude
 date: 2026-05-26T10:00:30+04:00
-categories: [ wealth ]
+categories: [ mumble ]
 tags: [ abenomics, central-bank, macroeconomics ]
 comments: false
 ---

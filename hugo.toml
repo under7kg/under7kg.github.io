@@ -12,7 +12,7 @@ pygmentsStyle = "friendly"
 pygmentsCodeFences = true
 
 # [permalinks]
-#    posts = "/b/:sections[:last]/:slug/"
+#     posts = "/b/:sections/:slug/"
 
 [params]
   topmenu = "categories"

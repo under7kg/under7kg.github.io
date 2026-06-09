@@ -2,7 +2,7 @@
 title: "日銀6月利上げは行われるか？"
 slug: boj-june-rate-decision
 date: 2026-06-07T08:00:00+07:00
-categories: [ mumble ]
+categories: [ wealth ]
 tags: [ central-bank ]
 ShowToc: true
 comments: false

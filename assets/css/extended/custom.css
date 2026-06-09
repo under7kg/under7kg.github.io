@@ -1,0 +1,47 @@
+/** All Pages **/
+:root {
+  --content-gap: 15px; /* 20px */
+}
+
+
+/** top Page **/
+.first-entry {
+  /*margin: var(--gap)0 calc(var(--gap) * 2);*/
+  margin: var(--gap)0 calc(var(--gap) * 1);
+}
+
+.first-entry .entry-header h2 {
+  font-size: 32px; /* 40px */
+}
+
+.entry-header h2 {
+  font-size: 24px; /* 24px */
+}
+
+/** posts Page **/
+
+.post-title {
+  font-size: 32px; /* 40px */
+}
+
+.md-content h1 {
+  /*margin: 40px auto 32px;*/
+  font-size: 32px; /* 40px */
+}
+
+.md-content h2 {
+  /*margin: 32px auto 24px;*/
+  font-size: 26px; /* 32px */
+}
+
+.md-content h3 {
+  font-size: 24px;
+}
+
+.md-content li {
+  /*margin-top: .3rem;*/
+  /*
+  複数行事に表示がカツカツになる。
+  line-height: 1.6;*/
+  line-height: 1.25;
+}
