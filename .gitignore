@@ -1,5 +1,6 @@
 # Logs and OS files
 *.log
+*.sh
 .DS_Store
 Thumbs.db
 

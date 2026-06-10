@@ -2,8 +2,8 @@
 title: クリティカル・シンキング：情報の濁流を生き抜くための知的な生存戦略
 slug: critical-thinking-survival-strategy
 date: 2026-06-01T04:35:24.000Z
-categories: [ mindset ]
-tags: [ critical-thinking, survival-strategy, 4c ]
+categories: [ m(ind+atter) ]
+tags: [ mindset, critical-thinking, survival-strategy, 4c ]
 comments: false
 ---
 

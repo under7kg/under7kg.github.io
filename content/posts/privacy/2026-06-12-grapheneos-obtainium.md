@@ -6,17 +6,21 @@ categories: [ nomad ]
 tags: [ GrapheneOS, appstore, privacy, android ]
 comments: false
 ---
+![ObtainiumにF-Droid](/images/2026-06-07-proton.png)
 
 GrapheneOSにはGoogle Playがない。アプリの導入はF-DroidかAPKの直接入手が基本になるが、管理先が複数に渡るとアップデートの見落としが起こる罠がある。
 
 ## 二刀流の限界
 
-これまで[F-Droid](https://fdroid.org)をメインのアプリストアとし、F-Droidに登録されていないアプリは[Obtainium](https://github.com/ImranR98/Obtainium)でGitHubのリリースページから直接インストールする、「**二刀流**」で運用してきた。
+これまで[F-Droid](https://fdroid.org)をメインのアプリストアとし、F-Droidに登録されていないアプリは[Obtainium](https://github.com/ImranR98/Obtainium)でGitHubのリリースページから直接インストールする、「**二刀流**」で運用してきた。ところが、F-Droidには登録されているのにGitHubにはソースコードのみでリリース用APKが存在しないアプリがいくつかある。
 
-ところが、F-Droidには登録されているのにGitHubにはソースコードのみでリリース用APKが存在しないアプリがいくつかある。
+![Proton Github](/images/2026-06-07-proton-github.png)
+
 こうしたアプリは、F-Droidのページから手動でAPKをダウンロードしつつ、ObtainiumにはGitHubのURLを登録してアップデートの有無だけ確認する……ど〜〜もすっきりしない運用になる。
 
 ## ObtainiumにF-Droid App Page urlを登録できる！
+![ObtainiumにF-Droid](/images/2026-06-07-proton-fdroid.png)
+
 F-DroidのアプリページURLをそのままObtainiumに登録できる。
 F-DroidのURLをObtainiumに直接登録できると分かったことで、アプリ管理の完全一本化がようやく現実的になる
 

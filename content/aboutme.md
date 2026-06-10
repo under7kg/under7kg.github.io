@@ -10,16 +10,27 @@ draft: true
 
 
 ほとんど追いついていないけれど、良質なものが多い、大手メディアは死んだわな。。
+映画とか小説とかは、
+ここ20年ぐらいほ〜んと観てないし読んでない（自分の人生でカツカツ）。
 
 ## Podcast
 
+
+
+
 ## Youtube
-投資
-技術
+**投資**
+- Tom -Lazy Investor : https://www.youtube.com/@1MillionWithin5Years
+
+**論争・議論**
+- More Perfect Union : https://www.youtube.com/@moreperfectunion
+- Jubilee : https://www.youtube.com/@jubilee
+
+**科学・技術**
+- Epic Spaceman : https://www.youtube.com/@EpicSpaceman
+- N-O-D-E : https://www.youtube.com/@NODEtv/videos
 
 
-
-映画とか小説とかは、ここ20年ぐらいほ〜んと観てないし読んでない。
 
 ---
 

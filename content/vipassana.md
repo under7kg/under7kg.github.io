@@ -3,8 +3,8 @@ title: "ビパッサナ瞑想"
 subtitle: "ビパッサナ（by ゴエンカ氏）について"
 slug: "about/vipassana"
 date: "2017-05-29"
-categories: [ mindset ]
-tags: [ meditation, vipassana ]
+categories: [ m(ind+atter) ]
+tags: [ mindset, meditation, vipassana ]
 comments: false
 ---
 
