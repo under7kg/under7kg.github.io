@@ -1,7 +1,7 @@
 ---
 title: GrapheneOSの賢い使い方
 slug: grapheneos-wise-manual
-date: 2026-06-07T10:07:30+04:00
+date: 2026-06-12T10:07:30+04:00
 categories: [ nomad ]
 tags: [ GrapheneOS, android, privacy]
 comments: false

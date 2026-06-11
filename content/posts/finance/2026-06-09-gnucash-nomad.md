@@ -4,6 +4,8 @@ slug: gnucash-nomad-finance
 date: 2026-06-09T00:00:00+07:00
 categories: [ nomad ]
 tags: [ gnucash, bookkeeping, multi-currency, survival-strategy ]
+weight: 2
+# weight: 3 on grapheneOS recommend
 comments: false
 ---
 
