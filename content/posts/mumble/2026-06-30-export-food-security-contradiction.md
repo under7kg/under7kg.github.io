@@ -1,7 +1,7 @@
 ---
 title: "農水省の「輸出推進」という名の構造的矛盾"
-slug: "maff-export-food-security-contradiction"
-date: "2026-06-16T10:00:00+09:00"
+slug: "export-food-security-contradiction"
+date: "2026-06-30T10:00:00+09:00"
 categories: [ mumble ]
 tags: [ investment, macroeconomics, structural ]
 ShowToc: true
