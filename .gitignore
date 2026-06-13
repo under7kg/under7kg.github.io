@@ -9,10 +9,9 @@ Thumbs.db
 .history/
 
 # Obsidian
+draft/
 .obsidian/
 .copilot/
-
-preview.sh
 
 # Hugo build output
 public/
