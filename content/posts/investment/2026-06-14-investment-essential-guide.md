@@ -3,7 +3,7 @@ title: "投資で頭を悩ませないための「最低限の知識」ガイド
 slug: investment-essential-guide
 date: 2026-06-14T00:00:00+07:00
 categories: [ wealth ]
-tags: [ investment, macroeconomics, central-bank, behavioral-bias, valuation, forex ]
+tags: [ investment, macroeconomics, central-bank, behavioral-bias, forex ]
 ShowToc: true
 TocOpen: false
 comments: false

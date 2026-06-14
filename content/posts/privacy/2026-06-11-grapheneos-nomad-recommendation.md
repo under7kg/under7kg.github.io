@@ -4,8 +4,6 @@ slug: grapheneos-nomad-recommendation
 date: 2026-06-11T00:00:00+07:00
 categories: [ nomad ]
 tags: [ GrapheneOS, privacy, security, SIM ]
-weight: 3 
-# weight: 2 on gnucash
 ShowToc: true
 TocOpen: false
 comments: false
