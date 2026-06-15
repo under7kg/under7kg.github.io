@@ -1,9 +1,9 @@
 ---
 title: "旅の不安をゼロに！ノマドの最強防犯ハック「3層管理」"
 slug: "nomad-3-layer-cash-card-management"
-date: "2026-06-15T10:00:00+09:00"
+date: "2026-06-20T10:00:00+09:00"
 categories: [ nomad ]
-tags: [ safety, money, goods ]
+tags: [ travel, "Tips&Tricks", goods ]
 comments: false
 ---
 
