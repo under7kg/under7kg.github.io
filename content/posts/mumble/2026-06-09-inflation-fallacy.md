@@ -1,6 +1,6 @@
 ---
 title: "大幅な円安でも利上げは不要！？"
-slug: inflation-fallacy
+slug: mumble/inflation-fallacy
 date: 2026-06-09T08:00:00+07:00
 categories: [ mumble ]
 tags: [ inflation, central-bank, macroeconomics ]

@@ -1,6 +1,6 @@
 ---
 title: "プライバシー重視AIサービス比較：あなたの「思考」は誰のもの？"
-slug: privacy-ai-provider
+slug: tech/privacy-ai-provider
 date: 2026-06-15T00:00:00+07:00
 categories: [ nomad ]
 tags: [ ai, privacy, venice, proton ]

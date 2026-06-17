@@ -1,6 +1,6 @@
 ---
 title: ジョージア語の曜日の名付け
-slug: "georgian-weekday-naming"
+slug: "trivia/georgian-weekday-naming"
 date: "2026-06-12T10:00:00+09:00"
 categories: [ nomad ]
 tags: [ georgia, trivia, language, christianity ]

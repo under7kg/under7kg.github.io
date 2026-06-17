@@ -1,6 +1,6 @@
 ---
 title: "その涙は誰の利益か？——現代スポーツが仕掛ける「リアルタイム感動ポルノ」の搾取構造"
-slug: jfa-team-cam
+slug: mumble/jfa-team-cam
 date: 2026-06-15T00:00:00+07:00
 categories: [ mumble ]
 tags: [ sports-business, media-literacy ]

@@ -1,6 +1,6 @@
 ---
 title: "日銀政策の代替フレームワーク徹底解剖"
-slug: boj-alternative-frameworks
+slug: economy/boj-alternative-frameworks
 date: 2026-06-15T10:00:00+09:00
 categories: [ mumble ]
 tags: [ central-bank, macroeconomics, monetary-policy ]

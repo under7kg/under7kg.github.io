@@ -1,6 +1,6 @@
 ---
 title: スペースX IPOの過大評価と個人投資家の防衛策
-slug: "spacex-ipo"
+slug: "mumble/spacex-ipo"
 date: "2026-06-12T12:00:00+09:00"
 categories: [ mumble ]
 tags: [ investment, exit-liquidity, cantillon-effect ]

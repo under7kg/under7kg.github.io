@@ -1,6 +1,6 @@
 ---
 title: "アベノミクスという名の国家破壊——黒田東彦の「無責任の完成形」"
-slug: abenomics-national-destruction
+slug: mumble/abenomics-national-destruction
 date: 2026-06-08T08:00:00+07:00
 categories: [ mumble ]
 tags: [ abenomics, propaganda, central-bank, critical-thinking ]

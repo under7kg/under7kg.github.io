@@ -1,6 +1,6 @@
 ---
 title: "投資を始める前に絶対に必要な「生活防衛資金」"
-slug: cash-wedge
+slug: investment/cash-wedge
 date: 2026-06-20T00:00:00+07:00
 categories: [ wealth ]
 tags: [ investment, cash-wedge, bucket-strategy ]

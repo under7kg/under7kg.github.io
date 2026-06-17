@@ -1,6 +1,6 @@
 ---
 title: "2026年ワールドカップ・チケット価格の異常な高騰"
-slug: world-cup-priced-out
+slug: mumble/world-cup-priced-out
 date: 2026-06-10T08:00:00+07:00
 categories: [ mumble ]
 tags: [ sports-business, inequality, youtube ]

@@ -1,9 +1,9 @@
 ---
 title: デジタル・ノマドにGrapheneOSが必要な理由
-slug: grapheneos-nomad-recommendation
+slug: privacy/grapheneos-nomad-recommendation
 date: 2026-06-11T00:00:00+07:00
 categories: [ nomad ]
-tags: [ GrapheneOS, privacy, security, SIM ]
+tags: [ GrapheneOS, privacy, security, recommend ]
 ShowToc: true
 TocOpen: false
 comments: false

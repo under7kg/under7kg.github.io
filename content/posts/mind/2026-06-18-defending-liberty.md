@@ -1,6 +1,6 @@
 ---
 title: "自由を守るために──二つの自由概念と、来るべき時代への心構え"
-slug: defending-liberty
+slug: mind/defending-liberty
 date: 2026-06-18T00:00:00+07:00
 categories: [ m(ind+atter) ]
 tags: [ liberty, mindset, philosophy ]

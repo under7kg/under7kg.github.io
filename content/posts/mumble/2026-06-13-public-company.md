@@ -1,6 +1,6 @@
 ---
 title: "Public Companyの皮を被った私的帝国——法人の個人所有物化とテックロードの台頭"
-slug: "public-company"
+slug: "mumble/public-company"
 date: "2026-06-13T09:00:00+04:00"
 categories: [ mumble ]
 tags: [ structural-defect, propaganda, inequality ]

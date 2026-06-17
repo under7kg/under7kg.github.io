@@ -1,6 +1,6 @@
 ---
 title: ジョージア定期預金活用型リタイア計画
-slug: georgian-time-deposit-strategy
+slug: retirement/georgian-time-deposit-strategy
 date: 2026-06-16T12:00:00+04:00
 categories: [ wealth ]
 tags: [ investment, bucket-strategy, retirement, georgia ]

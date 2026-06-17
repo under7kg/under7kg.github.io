@@ -1,6 +1,6 @@
 ---
 title: "アルゴリズムの檻から脱出せよ：最適化された「家畜」にならないための生存戦略"
-slug: algorithm-intuition
+slug: mind/algorithm-intuition
 date: 2026-06-04T00:00:00.000Z
 categories: [ m(ind+atter) ]
 tags: [ mindset, algorithm, intuition, survival-strategy ]

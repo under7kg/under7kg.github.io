@@ -1,6 +1,6 @@
 ---
 title: "アプリ管理はObtainiumで一本化"
-slug: grapheneos-obtainium
+slug: privacy/grapheneos-obtainium
 date: 2026-06-18T09:00:00+04:00
 categories: [ nomad ]
 tags: [ GrapheneOS, appstore, foss ]

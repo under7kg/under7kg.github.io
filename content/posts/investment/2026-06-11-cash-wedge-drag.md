@@ -1,6 +1,6 @@
 ---
 title: "インフレ時代の新常識：キャッシュ・ウェッジとキャッシュ・ドラッグ"
-slug: cash-wedge-drag
+slug: investment/cash-wedge-drag
 date: 2026-06-11T00:00:00+07:00
 categories: [ wealth ]
 tags: [ investment, cash-wedge, inflation ]

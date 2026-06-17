@@ -1,6 +1,6 @@
 ---
 title: "日銀6月会合：円相場・国債市場への影響"
-slug: boj-june-meeting-impact
+slug: economy/boj-june-meeting-impact
 date: 2026-06-12T10:00:00+09:00
 categories: [ wealth ]
 tags: [ central-bank, macroeconomics ]

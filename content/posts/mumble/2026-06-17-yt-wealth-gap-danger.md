@@ -1,6 +1,6 @@
 ---
 title: "アメリカ・富の格差がもたらす危険"
-slug: wealth-gap-danger
+slug: mumble/wealth-gap-danger
 date: 2026-06-17T06:00:00+04:00
 categories: [ mumble ]
 tags: [ inequality, youtube, law ]

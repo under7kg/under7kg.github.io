@@ -1,0 +1,2 @@
+# static/_redirects
+/posts/*  /:splat  301

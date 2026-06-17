@@ -1,6 +1,6 @@
 ---
 title: "日本の「貯蓄から投資へ」転換 ― 円相場・株式市場への影響レポート"
-slug: savings-to-investment-shift-report
+slug: economy/savings-to-investment-shift-report
 date: 2026-06-11T00:00:00+07:00
 categories: [ wealth ]
 tags: [ investment, macroeconomics ]

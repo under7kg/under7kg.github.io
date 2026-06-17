@@ -1,6 +1,6 @@
 ---
 title: "航空運賃が紛争前水準に戻るまでの時間"
-slug: "flight-price"
+slug: "travel/flight-price"
 date: "2026-05-21T10:07:30+09:00"
 categories: [ nomad ]
 tags: [ airticket, booking, geopolitics ]

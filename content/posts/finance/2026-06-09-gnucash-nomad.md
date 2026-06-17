@@ -1,9 +1,9 @@
 ---
 title: "GnuCashをノマドに使う理由"
-slug: gnucash-nomad-finance
+slug: finance/gnucash-nomad-finance
 date: 2026-06-09T00:00:00+07:00
 categories: [ nomad ]
-tags: [ gnucash, bookkeeping, multi-currency, foss, survival-strategy ]
+tags: [ gnucash, bookkeeping, multi-currency, foss, survival-strategy, recommend ]
 comments: false
 ---
 

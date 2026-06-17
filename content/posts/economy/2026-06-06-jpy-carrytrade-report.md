@@ -1,6 +1,6 @@
 ---
 title: 日本円キャリートレード総合レポート
-slug: jpy-carrytrade-report
+slug: economy/jpy-carrytrade-report
 date: 2026-06-06T10:00:30+04:00
 categories: [ wealth ]
 tags: [ abenomics, central-bank, macroeconomics, carrytrade ]
