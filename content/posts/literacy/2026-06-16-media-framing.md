@@ -2,7 +2,7 @@
 title: "「嘘ではないのに、誘導される」──減税ニュースで学ぶメディアリテラシー"
 slug: media-framing
 date: 2026-06-16T00:00:00+07:00
-categories: [ mind ]
+categories: [ m(ind+atter) ]
 tags: [ media-literacy ]
 ShowToc: true
 TocOpen: false
