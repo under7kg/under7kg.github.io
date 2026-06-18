@@ -1,7 +1,7 @@
 ---
 title: "RSS Readerのススメ── アルゴリズムの外側で生きる情報収集術"
 slug: tech/rss-reader
-date: 2026-06-21T00:00:00+07:00
+date: 2026-06-21T00:00:00+04:00
 categories: [ nomad ]
 tags: [ privacy, foss, recommend ]
 ShowToc: true
