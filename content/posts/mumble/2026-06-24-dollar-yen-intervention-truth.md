@@ -2,7 +2,7 @@
 title: "ドル円介入の真実 ― 「政府・日銀」報道の裏で動く金と政治"
 slug: mumble/dollar-yen-intervention-truth
 date: 2026-06-24T00:00:00+07:00
-categories: [ wealth ]
+categories: [ mumble ]
 tags: [ central-bank, forex ]
 ShowToc: true
 TocOpen: false
@@ -278,74 +278,40 @@ comments: false
 
 ニュースが「政府・日銀」とまとめて書くたびに、責任の所在は曖昧になる。曖昧なまま、財布だけが軽くなっていく。それが今の構図だ。
 
----
 
-次は、外為特会の制度設計をどう変えれば「政治の財布あさり」を防げるか(積立金制度の復活、ルールの法定化、繰入上限の引き下げなど)の処方箋議論に進めるし、日本の介入手法を米国・スイス・中国などと比較して制度の妥当性を問うこともできる。どちらでも掘れる。
+## 参照：
 
 [1 日本銀行における外国為替市場介入事務の概要:日本銀行](https://www.boj.or.jp/intl_finance/outline/expkainyu.htm)
-
 [2 為替介入の基礎知識〜その仕組みと効果を考える:三井住友DSアセットマネジメント](https://www.smd-am.co.jp/market/ichikawa/2024/05/irepo240507/)
-
 [3 財務省と日銀 円安をもたらす制度設計:ピクテ](https://www.pictet.co.jp/investment-information/market/deep-insight/20240524.html)
-
 [4 為替介入とは何ですか?:日本銀行](https://www.boj.or.jp/about/education/oshiete/intl/g19.htm)
-
 [5 為替介入とは?実施されるとどうなる?:松井証券](https://www.matsui.co.jp/fx/study/article/glossary/currency-intervention/)
-
 [6 為替介入とは?仕組みや目的、過去の実例を紹介:東京スター銀行](https://www.tokyostarbank.co.jp/feature/education/trends/20240813_3.html)
-
 [7 円安阻止に寄与した為替介入を振り返る:国際通貨研究所](https://www.iima.or.jp/docs/newsletter/2024/nl2024.34.pdf)
-
 [8 為替介入とは?実施方法やメリット・デメリット:三菱UFJ銀行](https://moneycanvas.bk.mufg.jp/know/column/K57k3yts8VtIImc/)
-
 [9 為替介入の仕組みや効果は?:東京新聞](https://www.tokyo-np.co.jp/article/485711)
-
 [10 産業春秋/為替介入のタイミング:日刊工業新聞](https://www.nikkan.co.jp/articles/view/00766632)
-
 [11 日本の外貨準備高の推移:世界経済のネタ帳](https://ecodb.net/country/JP/f_reserve.html)
-
 [12 外貨準備等の状況(令和7年3月末現在):財務省](https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0703.html)
-
 [13 外貨準備等の状況(令和8年3月末現在):財務省](https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0803.html)
-
 [14 日本の外貨準備:Trading Economics](https://jp.tradingeconomics.com/japan/foreign-exchange-reserves)
-
 [15 外貨準備等の状況(令和8年5月末現在):財務省](https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0805.html)
-
 [16 焦点:外為特会、減税財源化に3つのハードル:ロイター](https://jp.reuters.com/opinion/AXHQ22VJZJPCRJ3N2D6EDIGUIE-2026-02-03/)
-
 [17 外為特会の剰余金、24年度5.3兆円:日本経済新聞](https://www.nikkei.com/article/DGXZQOUA3126J0R30C25A7000000/)
-
 [18 外為特会はなぜ約200兆円まで膨れ上がったのか?:東洋経済](https://toyokeizai.net/articles/-/936532?display=b)
-
 [19 国立国会図書館 調査及び立法考査局](https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F13122994)
-
 [20 為替介入の為替売買益、外貨準備の含み益の活用は正しい議論か:野村総合研究所](https://www.nri.com/jp/media/column/kiuchi/20240515.html)
-
 [21 衆院選2026 インサイド霞が関:外為特会「ほくほく」は本当か:毎日新聞](https://mainichi.jp/articles/20260202/k00/00m/020/267000c)
-
 [22 外為特会は「埋蔵金」か 消費減税の財源活用論で注目:時事ドットコム](https://www.jiji.com/jc/article?k=2026020301089&g=pol)
-
 [23 円安で為替差益が37兆円?野党が外為特会の「埋蔵金」に熱視線:東京新聞](https://www.tokyo-np.co.jp/article/210159)
-
 [24 4.外国為替資金特別会計 令和3年度決算:財務省](https://www.mof.go.jp/policy/budget/topics/special_account/fy2023/2023-kakuron-4.pdf)
-
 [25 日本総研 Viewpoint No.2023-002 一般会計歳入の増加に向け時限的に外為特会のさらなる活用を](https://www.jri.co.jp/MediaLibrary/file/report/viewpoint/pdf/14189.pdf)
-
 [26 円安による外貨準備の含み益を埋蔵金として活用することは可能か:野村総合研究所](https://www.nri.com/jp/media/column/kiuchi/20221201.html)
-
 [27 国民民主党・経済政策の財源問題③:野村総合研究所](https://www.nri.com/jp/media/column/kiuchi/20241107_3.html)
-
 [28 外為特別会計、剰余金3.8兆円 一部は防衛費の財源に:福井新聞](https://www.fukuishimbun.co.jp/articles/-/2097140)
-
 [29 24年度特別会計決算、剰余金増加し15兆円:読売新聞](https://www.yomiuri.co.jp/economy/20250731-OYT1T50069/)
-
 [30 茂木氏推しの「外為特会」は財源になり得るのか:毎日新聞](https://mainichi.jp/articles/20240926/k00/00m/010/119000c)
-
 [31 経済のプリズム No129 外国為替資金特別会計剰余金の発生と一般会計繰入:参議院](https://www.sangiin.go.jp/japanese/annai/chousa/keizai_prism/backnumber/h26pdf/201412902.pdf)
-
 [32 一般会計歳入の増加に向け時限的に外為特会のさらなる活用を:日本総研](https://www.jri.co.jp/page.jsp?id=105216)
-
 [33 防衛強化財源の外為特会に矛盾 剰余金使えば借金膨張:日本経済新聞](https://www.nikkei.com/article/DGXZQOUE013MW0R01C22A2000000/)
-
 [34 特別会計剰余金12.5兆円、「外為」3.5兆円…防衛財源へ1.9兆円:読売新聞](https://www.yomiuri.co.jp/economy/20230731-OYT1T50109/)
