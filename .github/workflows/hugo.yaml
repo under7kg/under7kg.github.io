@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - main
+    schedule:
+      - cron: '0 18 * * *' # Adds a daily build at 03:00 JPT
   workflow_dispatch:
 permissions:
   contents: read
