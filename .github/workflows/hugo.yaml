@@ -3,11 +3,9 @@ on:
   push:
     branches:
       - main
-    schedule:
-      - cron: '0 20 * * *'   # JST 5:00
-      - cron: '0 3 * * *'    # JST 12:00
-      - cron: '0 8 * * *'    # JST 17:00
-      - cron: '0 12 * * *'   # JST 21:00
+　　schedule:
+  　　- cron: '0 19 * * *'   # JST 5:00
+  　　- cron: '0 9 * * *'    # JST 18:00
   workflow_dispatch:
 permissions:
   contents: read
