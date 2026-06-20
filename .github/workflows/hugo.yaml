@@ -4,8 +4,8 @@ on:
     branches:
       - main
 　　schedule:
-  　　- cron: '0 19 * * *'   # JST 5:00
-  　　- cron: '0 9 * * *'    # JST 18:00
+  　　- cron: '0 19 * * *'   # 05:00 JST
+  　　- cron: '0 9 * * *'    # 18:00
   workflow_dispatch:
 permissions:
   contents: read
