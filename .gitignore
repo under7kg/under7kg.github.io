@@ -9,7 +9,6 @@ Thumbs.db
 .history/
 
 # Obsidian
-draft/
 .obsidian/
 .copilot/
 
@@ -18,6 +17,10 @@ public/
 #resources/_gen/
 #hugo_stats.json
 .hugo_build.lock
+
+# draft
+draft/
+content/series/
 
 # Env files
 .env

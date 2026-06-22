@@ -1,7 +1,7 @@
 ---
 title: "Veniceに匿名で課金する ── ウォレット選びとKYCレス入金"
 slug: tech/venice-anonymous-payment
-date: 2026-07-03T00:00:00+04:00
+date: 2026-07-08T00:00:00+04:00
 categories: [ nomad ]
 tags: [ ai, venice, privacy, crypto ]
 ShowToc: true
