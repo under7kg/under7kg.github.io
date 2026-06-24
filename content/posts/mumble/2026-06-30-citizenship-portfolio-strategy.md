@@ -1,5 +1,5 @@
 ---
-title: 国籍のポートフォリオ化──超富裕層の移住戦略と「国家への忠誠」の終わり
+title: 国籍のポートフォリオ化：超富裕層の移住戦略と「国家への忠誠」の終わり
 slug: mumble/citizenship-portfolio-strategy
 date: 2026-06-30T14:51:48+09:00
 categories: [ mumble ]

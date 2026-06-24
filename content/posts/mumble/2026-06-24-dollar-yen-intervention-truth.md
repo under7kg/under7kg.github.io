@@ -1,5 +1,5 @@
 ---
-title: "ドル円介入の真実 ― 「政府・日銀」報道の裏で動く金と政治"
+title: "ドル円介入の真実：「政府・日銀」報道の裏で動く金と政治"
 slug: mumble/dollar-yen-intervention-truth
 date: 2026-06-24T00:00:00+09:00
 categories: [ mumble ]

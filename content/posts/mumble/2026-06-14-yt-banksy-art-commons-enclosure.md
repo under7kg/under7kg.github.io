@@ -1,5 +1,5 @@
 ---
-title: "バンクシーのアートが突きつける「価値」の矛盾——公共財の私有化とコモンズの悲劇という嘘"
+title: "バンクシーのアートが突きつける「価値」の矛盾：公共財の私有化とコモンズの悲劇という嘘"
 slug: mumble/banksy-art-commons-enclosure
 date: 2026-06-14T09:00:00+04:00
 categories: [ mumble ]

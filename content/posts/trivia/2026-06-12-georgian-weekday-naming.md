@@ -1,5 +1,5 @@
 ---
-title: ジョージア語の曜日の名付け
+title: "ジョージア語の曜日の名付け"
 slug: "trivia/georgian-weekday-naming"
 date: "2026-06-12T10:00:00+09:00"
 categories: [ nomad ]

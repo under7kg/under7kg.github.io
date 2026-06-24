@@ -1,5 +1,5 @@
 ---
-title: "ProfileとPWAで作るセキュアなデスクトップ環境——Brave Desktop編"
+title: "ProfileとPWAで作るセキュアなデスクトップ環境 | Brave Desktop編"
 slug: tech/brave-security
 date: 2026-06-10T00:00:00+07:00
 categories: [ nomad ]

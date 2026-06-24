@@ -2,7 +2,7 @@
 title: "顔見知りが一人いればいい | ノマド的地元生活 其の一"
 series: "ノマド的地元生活"
 slug: nomad/nomadic-local-life-01
-date: "2026-06-29T10:00:00+09:00"
+date: "2026-07-02T10:00:00+09:00"
 categories: [ nomad ]
 tags: [ nomad, communication, local, survival-strategy, language ]
 comments: false

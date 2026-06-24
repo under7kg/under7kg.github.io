@@ -1,5 +1,5 @@
 ---
-title: "スマートフォンのアプリをPWAに置き換えてセキュリティを高める——Brave Mobile編"
+title: "スマートフォンのアプリをPWAに置き換えてセキュリティを高める | Brave Mobile編"
 slug: tech/brave-mobile-security
 date: 2026-06-10T00:00:00+07:00
 categories: [ nomad ]

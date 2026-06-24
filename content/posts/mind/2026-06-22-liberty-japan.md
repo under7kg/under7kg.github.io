@@ -1,9 +1,10 @@
 ---
-title: "現代日本における自由──静かなる侵食と、私たちの選択"
+title: "現代日本における自由：静かなる侵食と、私たちの選択"
 slug: mind/liberty-japan-silent-erosion
 date: 2026-06-22T00:00:00+09:00
 categories: [ m(ind+atter) ]
 tags: [ liberty, mindset, philosophy ]
+weight: 2
 ShowToc: true
 TocOpen: false
 comments: false
