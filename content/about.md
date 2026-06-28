@@ -34,6 +34,7 @@ AIとキボォーーが満載な、
 ---
 
 ## 履歴
++ 2026-07-01: GuruLlama🪬デビュー
 + 2026-06-13: HermesAgentやZed+AIと奮闘中、どこまで自動化すっかな
 + 2026-06-07: mumble:タワゴトカテゴリーも作った（辛口AI代筆）
 + 2026-06-04: GithubPageよりCloudflarePageに移動。テーマも変更
