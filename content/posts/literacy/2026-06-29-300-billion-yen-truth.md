@@ -1,7 +1,7 @@
 ---
 title: "3000億円の正体：財務省御用ジャーナリズムの観測気球を撃ち落とす"
 slug: literacy/300-billion-yen-truth
-date: 2026-06-29T12:00:00+09:00
+date: 2026-06-29T00:00:00+09:00
 categories: [ m(ind+atter) ]
 tags: [ media-literacy ]
 ShowToc: true

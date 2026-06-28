@@ -1,8 +1,8 @@
 ---
 title: "通貨レイヤー論：世界への扉は誰が狭めるのか"
 slug: economy/currency-layers-framework
-date: 2026-07-13T10:00:00+09:00
-categories: [ m(ind+atter) ]
+date: 2026-07-31T10:00:00+09:00
+categories: [ wealth ]
 tags: [ macroeconomics, forex, inequality, economic-framework, central-bank ]
 ShowToc: true
 comments: false
