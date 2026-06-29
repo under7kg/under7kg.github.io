@@ -1,5 +1,6 @@
 ---
 title: "自由を守るために：二つの自由概念と、来るべき時代への心構え"
+description: "アイザイア・バーリンの「二つの自由概念」を軸にAI時代・監視社会における自由の守り方を考える。消極的自由と積極的自由の思想的探求。"
 slug: mind/defending-liberty
 date: 2026-06-18T00:00:00+07:00
 categories: [ m(ind+atter) ]

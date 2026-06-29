@@ -1,5 +1,6 @@
 ---
 title: "農水省の「輸出推進」という名の構造的矛盾"
+description: "食料自給率38%で輸出5兆円目標——農水省の矛盾を7つの問いで検証。令和の米騒動の原因、農協・農林族・省庁の利権構造を徹底解剖し改革の方向性を探る。"
 slug: "mumble/export-food-security-contradiction"
 date: "2026-06-23T00:00:00+09:00"
 categories: [ mumble ]

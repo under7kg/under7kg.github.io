@@ -1,14 +1,10 @@
 ---
 title: 教科書版ケインズの誕生と死：サミュエルソンが数学化したもの
+description: "サミュエルソンの教科書がケインズをどう「翻訳」したか。数学化の過程で得たものと失ったものを追い現代経済学のバイアスの源流を探る。"
 slug: mind/keynes-samuelson-textbook
-date: 2026-08-17T00:00:00+09:00
+date: 2026-08-10T00:00:00+09:00
 categories: [ m(ind+atter) ]
-tags:
-  - liberty
-  - critical-thinking
-  - mindset
-  - economics
-  - philosophy
+tags: [ economics, critical-thinking ]
 ShowToc: true
 TocOpen: false
 comments: false

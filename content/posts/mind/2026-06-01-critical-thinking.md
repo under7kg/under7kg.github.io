@@ -1,5 +1,6 @@
 ---
 title: クリティカル・シンキング：情報社会で生き抜くための知的な生存戦略
+description: "情報の濁流に飲み込まれないためのクリティカル・シンキングを解説。プロパガンダ・エコチェンバー・ノイズを見抜き思考停止から脱却する知的な生存戦略。"
 slug: mind/critical-thinking-survival-strategy
 date: 2026-06-01T04:35:24.000Z
 categories: [ m(ind+atter) ]

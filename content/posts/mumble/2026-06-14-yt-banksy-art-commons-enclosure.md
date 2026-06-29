@@ -1,5 +1,6 @@
 ---
 title: "バンクシーのアートが突きつける「価値」の矛盾：公共財の私有化とコモンズの悲劇という嘘"
+description: "バンクシーのアートを題材に資本主義が公共財を簒奪する構造を解剖。コモンズの悲劇は嘘であり市場原理は富裕層が搾取を正当化する物語に過ぎない。"
 slug: mumble/banksy-art-commons-enclosure
 date: 2026-06-14T09:00:00+04:00
 categories: [ mumble ]

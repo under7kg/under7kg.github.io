@@ -1,7 +1,8 @@
 ---
 title: "「中央銀行を廃止せよ」：日本では聞かない、しかし世界を動かす経済思想の話"
+description: "日本では議論されない「中央銀行廃止論」をハイエク・フリードマン・ロスバードの三者三様の立場から解説。国家から通貨を解放する思想の系譜。"
 slug: mind/libertarian-central-bank
-date: 2026-08-03T00:00:00+09:00
+date: 2026-07-27T00:00:00+09:00
 categories: [ m(ind+atter) ]
 tags: [ libertarian, central-bank ]
 ShowToc: true

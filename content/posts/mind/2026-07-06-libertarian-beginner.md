@@ -1,9 +1,10 @@
 ---
 title: "超入門：「リバタリアン」って結局なに者？"
+description: "「リバタリアンって結局なに？」——個人の自由を最大限に尊重する思想を超入門向けに解説。右でも左でもない第三の政治軸をわかりやすく整理。"
 slug: mind/libertarian
 date: 2026-07-06T00:00:00+09:00
 categories: [ m(ind+atter) ]
-tags: [ libertarian, liberty, politics, philosophy, mindset ]
+tags: [ libertarian, philosophy, mindset ]
 ShowToc: true
 TocOpen: false
 comments: false

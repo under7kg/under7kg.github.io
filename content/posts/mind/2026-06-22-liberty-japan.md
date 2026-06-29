@@ -1,5 +1,6 @@
 ---
 title: "現代日本における自由：静かなる侵食と、私たちの選択"
+description: "現代日本における自由の静かな侵食を分析。バーリンの枠組みで「お上」文化・世間・空気が消極的自由を脆弱にしている構造を解剖。"
 slug: mind/liberty-japan-silent-erosion
 date: 2026-06-22T00:00:00+09:00
 categories: [ m(ind+atter) ]

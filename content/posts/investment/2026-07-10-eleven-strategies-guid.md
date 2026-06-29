@@ -1,5 +1,6 @@
 ---
 title: "投資戦略11選：自分に合うスタイルを見つけるための完全ガイド"
+description: "投資戦略11選をポートフォリオ構築・積立タイミング・銘柄選択・特殊戦略の4カテゴリで整理。早見表と年代別おすすめで自分に合う戦略が見つかる。"
 slug: invest/eleven-strategies-guid
 date: 2026-07-10T12:00:00+09:00
 categories: [ wealth ]

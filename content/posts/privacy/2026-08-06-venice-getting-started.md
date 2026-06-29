@@ -1,5 +1,6 @@
 ---
 title: "Veniceのはじめ方：アカウント作成とログイン方法"
+description: "Venice.aiのアカウント作成からログイン方法までを初心者向けに解説。メール登録とWeb3ウォレット方式、プライバシーを意識した登録の工夫も。"
 slug: tech/venice-getting-started
 date: 2026-08-06T00:00:00+04:00
 categories: [ nomad ]

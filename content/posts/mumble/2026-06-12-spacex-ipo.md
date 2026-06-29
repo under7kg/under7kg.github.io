@@ -1,5 +1,6 @@
 ---
 title: スペースX IPOの過大評価と個人投資家の防衛策
+description: "時価総額1.77兆ドルのスペースX IPOを財務分析。スターリンク頼みの収益構造・PSR109倍の異常値・個人投資家がこのバブルにどう対処すべきかを解説。"
 slug: "mumble/spacex-ipo"
 date: "2026-06-12T12:00:00+09:00"
 categories: [ mumble ]

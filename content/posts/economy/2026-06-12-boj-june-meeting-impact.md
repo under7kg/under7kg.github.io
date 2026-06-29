@@ -1,5 +1,6 @@
 ---
 title: "日銀6月会合：円相場・国債市場への影響"
+description: "日銀6月会合の影響を円相場と国債市場の両面から分析。利上げとQTの同時打ちが市場に与える相乗効果と今後のシナリオを検証。"
 slug: economy/boj-june-meeting-impact
 date: 2026-06-12T10:00:00+09:00
 categories: [ wealth ]

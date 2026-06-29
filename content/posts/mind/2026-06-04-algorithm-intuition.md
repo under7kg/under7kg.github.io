@@ -1,5 +1,6 @@
 ---
 title: "アルゴリズムの檻から脱出せよ：最適化された「家畜」にならないための生存戦略"
+description: "アルゴリズムの最適化された「家畜」にならない生存戦略。効率化が奪う直感と内なる声を取り戻し主体的に思考するための方法論。"
 slug: mind/algorithm-intuition
 date: 2026-06-04T00:00:00.000Z
 categories: [ m(ind+atter) ]

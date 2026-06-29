@@ -1,8 +1,9 @@
 ---
 title: "旅で使うLLM（でもあんまり信用すると痛い目に遭う）"
+description: "AIに旅行日程を組ませたらどこまで使えるか。Gemini・Claude・Grokでジョージア21日間の旅程を比較。旅のコンシェルジュとしての実力と限界を検証。"
 slug: trave/use-llm-for-itinerary
 date: 2026-07-23T12:00:00+09:00
-categories: [ tech ]
+categories: [ nomad ]
 tags: [ llm, travel, ai, gemini, claude, grok ]
 ShowToc: true
 TocOpen: false

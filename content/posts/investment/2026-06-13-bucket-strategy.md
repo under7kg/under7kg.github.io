@@ -1,5 +1,6 @@
 ---
 title: バケット戦略（Bucket Strategy）
+description: "リタイア後の資産運用に最適なバケット戦略を徹底解説。現金・繋ぎ・成長の3バケツ構成と補充フロー、メリット・デメリット、実例まで網羅。"
 slug: investment/about-bucket-strategy
 date: 2026-06-13T10:07:30+04:00
 categories: [ wealth ]

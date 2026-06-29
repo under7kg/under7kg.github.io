@@ -1,5 +1,6 @@
 ---
 title: "日本の「貯蓄から投資へ」転換：円相場・株式市場への影響レポート"
+description: "日本の「貯蓄から投資へ」の転換が円相場と株式市場に与える影響を分析。2000兆円の潜在的資金の行方と新NISAの効果をレポート。"
 slug: economy/savings-to-investment-shift-report
 date: 2026-06-11T00:00:00+07:00
 categories: [ wealth ]

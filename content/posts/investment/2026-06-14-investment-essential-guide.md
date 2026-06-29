@@ -1,5 +1,6 @@
 ---
 title: "投資で頭を悩ませないための「最低限の知識」ガイド"
+description: "投資に必要な最低限の知識を7項目に凝縮。マクロ経済・中央銀行・金利為替・行動バイアス・バリュエーションから情報の扱い方まで一気通貫で解説。"
 slug: investment/investment-essential-guide
 date: 2026-06-14T00:00:00+07:00
 categories: [ wealth ]

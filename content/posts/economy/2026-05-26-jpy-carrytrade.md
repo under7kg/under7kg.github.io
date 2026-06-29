@@ -1,5 +1,6 @@
 ---
 title: 日本円キャリートレードとは
+description: "人類史上最大級の裁定取引・円キャリートレードの入門解説。タダ同然の円が世界を買いその請求書が日本国民に届く構造を平易に説く。"
 slug: economy/jpy-carrytrade-prelude
 date: 2026-05-26T10:00:30+04:00
 categories: [ mumble ]

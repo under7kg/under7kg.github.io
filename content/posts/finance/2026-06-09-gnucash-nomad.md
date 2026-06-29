@@ -1,5 +1,6 @@
 ---
 title: "GnuCashをノマドに使う理由"
+description: "ノマドがGnuCash（複式簿記）で家計管理する理由を解説。多通貨対応・キャッシュフロー把握・税務証拠能力まで生存戦略としての会計ソフト活用法。"
 slug: finance/gnucash-nomad-finance
 date: 2026-06-09T00:00:00+07:00
 categories: [ nomad ]

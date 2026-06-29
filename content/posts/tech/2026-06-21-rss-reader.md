@@ -1,5 +1,6 @@
 ---
 title: "RSS Readerのススメ：アルゴリズムの外側で生きる情報収集術"
+description: "アルゴリズムに支配されない情報収集としてRSSを推奨。NetNewsWire・FeederなどFOSSクライアントを紹介しIndie Web時代のプライバシー重視の情報摂取術。"
 slug: tech/rss-reader
 date: 2026-06-21T00:00:00+04:00
 categories: [ nomad ]

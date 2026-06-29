@@ -1,5 +1,6 @@
 ---
 title: "スマートフォンのアプリをPWAに置き換えてセキュリティを高める | Brave Mobile編"
+description: "スマホのネイティブアプリをBraveのPWAに置き換えて権限管理を取り戻す方法。トラッキング排除と通信量削減でノマド環境のセキュリティを向上。"
 slug: tech/brave-mobile-security
 date: 2026-06-10T00:00:00+07:00
 categories: [ nomad ]

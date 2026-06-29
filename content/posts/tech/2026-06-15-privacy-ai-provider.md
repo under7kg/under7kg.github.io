@@ -1,5 +1,6 @@
 ---
 title: "プライバシー重視AIサービス比較：あなたの「思考」は誰のもの？"
+description: "AIのプライバシーリスクを解説しVenice・DuckDuckGo・Proton Lumoを徹底比較。データが「製品」になる時代に自分の思考を守るサービス選びの指標。"
 slug: tech/privacy-ai-provider
 date: 2026-06-15T00:00:00+07:00
 categories: [ nomad ]

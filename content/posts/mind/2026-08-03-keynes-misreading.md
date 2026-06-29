@@ -1,14 +1,10 @@
 ---
 title: "ケインズは本当に「バラマキの元祖」なのか：誤読され続ける経済学者の実像"
+description: "バラマキの元祖と誤読されるケインズの実像に迫る。4つの誤読を解きほぐし右派にも左派にも収まらない複雑な経済思想家の全体像を描く。"
 slug: mind/keynes-misreading
-date: 2026-08-10T00:00:00+09:00
+date: 2026-08-03T00:00:00+09:00
 categories: [ m(ind+atter) ]
-tags:
-  - liberty
-  - critical-thinking
-  - mindset
-  - economics
-  - philosophy
+tags: [ economics, critical-thinking ]
 ShowToc: true
 TocOpen: false
 comments: false

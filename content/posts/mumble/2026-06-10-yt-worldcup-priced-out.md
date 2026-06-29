@@ -1,5 +1,6 @@
 ---
 title: "2026年ワールドカップ・チケット価格の異常な高騰"
+description: "2026年W杯チケット価格の異常な高騰とFIFAの不透明な運営体制を調査。ダイナミックプライシング・二重取り・横領——スポーツが超富裕層のものになる構造。"
 slug: mumble/world-cup-priced-out
 date: 2026-06-10T08:00:00+07:00
 categories: [ mumble ]

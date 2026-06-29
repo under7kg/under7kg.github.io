@@ -1,5 +1,6 @@
 ---
 title: "日銀政策の代替フレームワーク徹底解剖"
+description: "日銀の現行枠組みを超える4つの代替フレームワーク（NGDP目標・為替目標・物価水準目標・高圧経済）を検証。金融政策の限界と日本経済の本質的病巣に迫る。"
 slug: economy/boj-alternative-frameworks
 date: 2026-06-15T10:00:00+09:00
 categories: [ mumble ]

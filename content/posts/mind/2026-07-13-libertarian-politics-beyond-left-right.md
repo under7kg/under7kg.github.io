@@ -1,9 +1,10 @@
 ---
 title: 政治は「右か左か」だけではなかった：自由をめぐる、もう一つの軸の話
+description: "政治は右か左かだけでは測れない。ロン・ポールの事例から「自由」という第二の軸を導入し政治スペクトラムを立体的に捉え直す試み。"
 slug: mind/politics-beyond-left-right
-date: 2026-07-20T00:00:00+09:00
+date: 2026-07-13T00:00:00+09:00
 categories: [ m(ind+atter) ]
-tags: [ libertarian, liberty, politics, philosophy, critical-thinking, mindset ]
+tags: [ libertarian, politics, philosophy, critical-thinking ]
 ShowToc: true
 TocOpen: false
 comments: false

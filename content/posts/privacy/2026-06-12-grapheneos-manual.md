@@ -1,5 +1,6 @@
 ---
 title: GrapheneOSの賢い使い方
+description: "GrapheneOSの中級者向け実践ガイド。プロファイル戦略・Sandboxed Google Play・アプリ入手・セキュリティ設定までプライバシーと利便性のバランスを詳述。"
 slug: privacy/grapheneos-wise-manual
 date: 2026-06-12T10:07:30+04:00
 categories: [ nomad ]

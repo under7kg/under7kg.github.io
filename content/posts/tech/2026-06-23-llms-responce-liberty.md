@@ -1,5 +1,6 @@
 ---
 title: "「自由とは何？」をいろいろなLLMに聞いてみる"
+description: "同じ質問「自由とは何か」を19のLLMに投げて回答を比較。モデルごとの思想の違いや回答傾向が浮き彫りになる実験。Venice.aiの使い方も紹介。"
 slug: tech/llms-responce-liberty
 date: 2026-06-23T00:00:00+04:00
 categories: [ nomad ]

@@ -1,5 +1,6 @@
 ---
 title: "日銀6月利上げは行われるか？"
+description: "日銀6月利上げの可能性を徹底分析。9割が利上げ予想という異例の収束の中でFRBのタカ派シフトと中東情勢が日銀の決定に与える影響を検証。"
 slug: economy/boj-june-rate-decision
 date: 2026-06-07T08:00:00+07:00
 categories: [ wealth ]

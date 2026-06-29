@@ -1,5 +1,6 @@
 ---
 title: "🪬放浪することは生きることである"
+description: "放浪は手段ではなく生きることそのもの——ユゴーの言葉を手がかりに旅と人生の本質を描く。孤独を世界と二人きりの贅沢な散歩に変える視座。"
 slug: "gurullama/wandering-is-life"
 date: "2026-09-08T10:00:00+09:00"
 comments: false

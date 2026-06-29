@@ -1,19 +1,14 @@
 ---
 title: "なぜ偉大な思想は、必ず誤読されるのか：スミス・ケインズ・ロック、三つの「割れ目」と歪められる市民生活"
+description: "なぜスミス・ケインズ・ロックは一貫して誤読されるのか。三つの思想に共通する「割れ目」の構造を解き日常の歪みと地続きの問題として描く。"
 slug: mind/great-thoughts-misread
 date: 2026-08-24T00:00:00+09:00
-categories:
-  - m(ind+atter)
-tags:
-  - liberty
-  - critical-thinking
-  - mindset
-  - philosophy
+categories: [ m(ind+atter) ]
+tags: [ critical-thinking, mindset ]
 ShowToc: true
 TocOpen: false
 comments: false
 ---
-
 
 あなたが新聞やテレビで「自由」という言葉を聞くとき、それは二つの正反対のことを意味している。
 

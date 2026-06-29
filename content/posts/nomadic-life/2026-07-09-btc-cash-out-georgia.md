@@ -1,5 +1,6 @@
 ---
 title: "両替所でBTCを現金化できる国：ジョージアという暗号資産の隠れた要衝"
+description: "ジョージアでビットコインを現金化する方法を解説。自由経済と現金文化がもたらしたBTC流通の実態や両替所の選び方、規制変化と実践的注意点まで。"
 slug: nomad/btc-cash-out-georgia
 date: 2026-07-09T00:38:28+09:00
 categories: [ nomad ]

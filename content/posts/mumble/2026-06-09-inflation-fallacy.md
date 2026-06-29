@@ -1,5 +1,6 @@
 ---
 title: "大幅な円安でも利上げは不要！？"
+description: "「大幅円安でも利上げ不要」論を統計操作・循環論法・利益相反から徹底批判。家計に優しい装いの裏で国民生活を犠牲にする低金利・円安放置のコストを可視化。"
 slug: mumble/inflation-fallacy
 date: 2026-06-09T08:00:00+07:00
 categories: [ mumble ]

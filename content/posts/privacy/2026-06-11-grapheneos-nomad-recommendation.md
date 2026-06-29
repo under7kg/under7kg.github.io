@@ -1,5 +1,6 @@
 ---
 title: デジタル・ノマドにGrapheneOSが必要な理由
+description: "ノマドにGrapheneOSが必要な6つの理由を解説。国境検査・公共Wi-Fi・盗難リスク・銀行防衛まで移動生活のセキュリティ課題をOSレベルで解決する方法。"
 slug: privacy/grapheneos-nomad-recommendation
 date: 2026-06-11T00:00:00+07:00
 categories: [ nomad ]

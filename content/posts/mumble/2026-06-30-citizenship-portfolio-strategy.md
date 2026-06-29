@@ -1,5 +1,6 @@
 ---
 title: 国籍のポートフォリオ化：超富裕層の移住戦略と「国家への忠誠」の終わり
+description: "超富裕層が第二国籍をポートフォリオ化する現実を分析。マルタ・ポルトガル・トルコの市場と国家がサービス提供体へと変質する構造を経済・社会・思想面から考察。"
 slug: mumble/citizenship-portfolio-strategy
 date: 2026-06-30T14:51:48+09:00
 categories: [ mumble ]

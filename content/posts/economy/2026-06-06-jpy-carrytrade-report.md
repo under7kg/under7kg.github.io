@@ -1,5 +1,6 @@
 ---
 title: 日本円キャリートレード総合レポート
+description: "円キャリートレードの全貌を多角的に解剖する総合レポート。アベノミクスからの拡大経緯や世界への波及、日銀政策への制約、日本人投資家への影響まで。"
 slug: economy/jpy-carrytrade-report
 date: 2026-06-06T10:00:30+04:00
 categories: [ wealth ]
