@@ -45,3 +45,8 @@
   line-height: 1.6;*/
   line-height: 1.25;
 }
+
+/** ポスト個別ページのタイトル下 Description を非表示 **/
+.post-single .post-description {
+  display: none;
+}
