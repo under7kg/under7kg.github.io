@@ -63,3 +63,17 @@ pygmentsCodeFences = true
   name = "about"
   url = "/about/"
   weight = 30
+
+# llms.txt サポート
+# グローバル用 + category毎の /categories/<name>/llms.txt
+[outputFormats]
+  [outputFormats.llms]
+    mediaType = "text/plain"
+    baseName = "llms"
+    isPlainText = true
+    notAlternative = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "llms"]
+  term = ["HTML", "llms"]
+  #taxonomy = ["HTML", "llms"]   # オプション: /categories/llms.txt も作る場合
