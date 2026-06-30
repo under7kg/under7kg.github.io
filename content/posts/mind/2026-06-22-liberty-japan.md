@@ -5,7 +5,6 @@ slug: mind/liberty-japan-silent-erosion
 date: 2026-06-22T00:00:00+09:00
 categories: [ m(ind+atter) ]
 tags: [ liberty, mindset, philosophy ]
-weight: 2
 ShowToc: true
 TocOpen: false
 comments: false

@@ -5,7 +5,7 @@ series: "ノマド的地元生活"
 slug: nomad/nomadic-local-life-01
 date: "2026-07-02T10:00:00+09:00"
 categories: [ nomad ]
-tags: [ nomad, communication, local, survival-strategy, language ]
+tags: [ communication, local, survival-strategy, language ]
 comments: false
 ---
 

@@ -2,7 +2,7 @@
 title: "スポーツから魂が抜けていく"
 description: "効率とビジネスに支配され「闘魂」を失いつつある現代スポーツへの違和感を綴る。格差と予定調和の中で熱狂の温度が下がっていく様を自身の旅体験と重ねて。"
 slug: mumble/sorrow-of-sports-sprit
-date: 2026-07-21T11:13:56+09:00
+date: 2026-07-21T00:00:00+09:00
 categories: [ mumble ]
 tags: [ sports-business, inequality ]
 ShowToc: false
