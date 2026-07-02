@@ -3,6 +3,11 @@
   --content-gap: 15px; /* 20px */
 }
 
+/** Header: メニューを右側（テーマ切り替えボタンの横）へ寄せる **/
+.header-nav .menu {
+  margin-left: auto;
+}
+
 
 /** top Page **/
 .first-entry {
