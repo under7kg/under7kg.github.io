@@ -2,7 +2,7 @@
 title: 騙される権利：「正しい情報」を配給されたがる者たちへ
 description: "「思想の自由市場」は機能しているか。アルゴリズムとプラットフォームに歪められた言論空間で正しい情報を配給されたがる人々に問う。"
 slug: mind/right-to-be-deceived
-date: 2026-07-20T12:00:00+09:00
+date: 2026-07-20T00:00:00+09:00
 categories: [ m(ind+atter) ]
 tags: [ liberty, critical-thinking, mindset ]
 ShowToc: true

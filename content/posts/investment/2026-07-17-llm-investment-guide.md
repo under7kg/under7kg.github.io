@@ -4,7 +4,7 @@ description: "LLMを投資リサーチに活かす実践ガイド。目的別モ
 slug: wealth/llm-investment-guide
 date: 2026-07-17T00:00:09+09:00
 categories: [ wealth ]
-tags: [ investment, llm, recommend, privacy ]
+tags: [ investment, LLMs, recommend, privacy ]
 ShowToc: true
 TocOpen: false
 comments: false

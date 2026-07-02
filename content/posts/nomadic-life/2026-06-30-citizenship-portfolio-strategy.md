@@ -4,7 +4,7 @@ description: "超富裕層が第二国籍をポートフォリオ化する現実
 slug: mumble/citizenship-portfolio-strategy
 date: 2026-06-30T14:51:48+09:00
 categories: [ mumble ]
-tags: [ nomad, liberty, critical-thinking, inequality, structural-defect ]
+tags: [ liberty, inequality, survival-strategy, life-style ]
 ShowToc: true
 TocOpen: false
 comments: false
@@ -58,7 +58,7 @@ comments: false
 
 国家への帰属が「運命」から「選択」へ、そして「課金アイテム」へ。皮肉なのは、それを最も理解しているのが、最も国家の恩恵を受けた人々だという点だ。
 
-ーーー
+---
 
 ノマド生活、確かに魅力的に見える。でも「良いかどうか」は、**何を最適化したいか**で答えが180度変わる。冷静に三つの天秤で量ってみる。
 

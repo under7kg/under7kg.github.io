@@ -4,7 +4,7 @@ description: "「あなたの最大の敵は市場ではなく自分自身の心
 slug: investment/behavioral-finance
 date: 2026-08-07T00:00:00+09:00
 categories: [ wealth ]
-tags: [ investment, behavioral-finance ]
+tags: [ investment, behavioral-bias, recommend ]
 ShowToc: true
 TocOpen: false
 comments: false

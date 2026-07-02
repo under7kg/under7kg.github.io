@@ -2,7 +2,7 @@
 title: "🪬「ただひとり」とは"
 description: "「孤独」ではなく「独りあること」の美学を探る。何ものにも染まらず天真爛漫で自由であることの本質をノマドの生き方と重ねて綴る精神的エッセイ。"
 slug: "gurullama/beeing-aloneness"
-date: "2026-07-14T10:00:00+09:00"
+date: "2026-08-11T00:00:00+09:00"
 categories: [ mumble ]
 tags: [ gurullama, aloneness ]
 comments: false
@@ -19,6 +19,8 @@ comments: false
 > 「ただひとり」あるときにはじめて、完璧な行為と協力が生まれる。
 > 
 > なぜならば愛は常に一個の全体なのであるから。
+> 
+>  *——— ジッドゥ・シュナムルティ*
 
 愛するノマド（旅人）たちへ。
 

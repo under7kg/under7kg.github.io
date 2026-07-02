@@ -4,7 +4,7 @@ description: "ジョージアの高金利定期預金を活用したリタイア
 slug: retirement/georgian-time-deposit-strategy
 date: 2026-06-16T12:00:00+04:00
 categories: [ wealth ]
-tags: [ investment, bucket-strategy, retirement, georgia ]
+tags: [ investment, bucket-strategy, fire, georgia ]
 ShowToc: true
 TocOpen: false
 comments: false

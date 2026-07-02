@@ -2,7 +2,7 @@
 title: "円安・物価高・国の借金：「ハイパーインフレ」は来ないのに、なぜ暮らしは苦しくなるのか"
 description: "「ハイパーインフレ」は来ないのに暮らしは苦しくなる——金融抑制のメカニズムを解説。円安・物価高・国の借金が静かに国民の購買力を奪う構造。"
 slug: economy/japan-financial-repression
-date: 2026-07-03T21:18:24+09:00
+date: 2026-07-03T00:18:24+09:00
 categories: [ wealth ]
 tags: [ inflation, macroeconomics, central-bank ]
 ShowToc: false

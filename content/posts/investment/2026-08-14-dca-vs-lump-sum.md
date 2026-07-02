@@ -4,7 +4,7 @@ description: "データ上は一括投資の方が勝率が高い事実。それ
 slug: investment/dca-vs-lump-sum
 date: 2026-08-14T00:00:00+09:00
 categories: [ wealth ]
-tags: [ investment, dca, behavioral-finance ]
+tags: [ investment, DCA, behavioral-bias ]
 ShowToc: true
 TocOpen: false
 comments: false

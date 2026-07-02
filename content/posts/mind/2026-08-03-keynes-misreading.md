@@ -4,7 +4,7 @@ description: "バラマキの元祖と誤読されるケインズの実像に迫
 slug: mind/keynes-misreading
 date: 2026-08-03T00:00:00+09:00
 categories: [ m(ind+atter) ]
-tags: [ economics, critical-thinking ]
+tags: [ keynesian-economics, critical-thinking ]
 ShowToc: true
 TocOpen: false
 comments: false

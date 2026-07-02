@@ -4,7 +4,7 @@ description: "サミュエルソンの教科書がケインズをどう「翻訳
 slug: mind/keynes-samuelson-textbook
 date: 2026-08-10T00:00:00+09:00
 categories: [ m(ind+atter) ]
-tags: [ economics, critical-thinking ]
+tags: [ keynesian-economics, critical-thinking ]
 ShowToc: true
 TocOpen: false
 comments: false
