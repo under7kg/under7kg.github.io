@@ -22,14 +22,16 @@ pygmentsCodeFences = true
 #  ShowBreadCrumbs = true
 #  ShowToc = true
 #  TocOpen = true
+  [params.footer]
+    text = "⚡ [under7kg@blink](lightning:under7kg@blink.sv) ⚡"
 
   #[params.author]
     #name = "jin"
     #github = "under7kg"
-    #email = "under7kg@pm.me"
+    #email = "under7kg@proton.me"
     #bluesky = "ukigumo.bsky.social"
     #nostr = "npub1c0pw59sdy4euuy7ghaxtkm73ug6gm8puhjw3fy4wtes6caxt8zasufn4de"
-    #zap = "ukigumo@getalby.com"
+    #zap = "under7kg@blink.sv"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -44,6 +46,7 @@ pygmentsCodeFences = true
 [taxonomies]
   category = "categories"
   tag = "tags"
+  series = "series"
 
 # メニュー設定
 [[menu.main]]
@@ -57,6 +60,12 @@ pygmentsCodeFences = true
   name = "tags"
   url = "/tags/"
   weight = 20
+
+# [[menu.main]]
+#   identifier = "series"
+#   name = "series"
+#   url = "/series/"
+#   weight = 25
 
 [[menu.main]]
   identifier = "about"
