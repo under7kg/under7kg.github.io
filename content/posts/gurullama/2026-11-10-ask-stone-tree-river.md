@@ -1,6 +1,7 @@
 ---
 title: "🪬石に聞け。木に聞け。川に聞け。。"
-slug: "gurullama/2026-11-10"
+description: "答えは遠くになく、すでに足元にある。禅の古語が告げる石・木・川と対話する孤独の作法。問いの声が小さくなる時、世界の答えが聞こえてくる。彷徨える旅人が静寂の中で宇宙と一つになる、3分で読める短い覚書。"
+slug: "gurullama/ask-stone-tree-river"
 date: "2026-11-10T00:00:00+09:00"
 comments: false
 categories: [ mumble ]

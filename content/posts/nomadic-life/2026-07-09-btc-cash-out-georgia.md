@@ -4,7 +4,7 @@ description: "ジョージアでビットコインを現金化する方法を解
 slug: nomad/btc-cash-out-georgia
 date: 2026-07-09T00:00:28+09:00
 categories: [ nomad ]
-tags: [ life-style, crypto, georgia, travel ]
+tags: [ life-style, bitcoin, crypto, georgia, travel ]
 ShowToc: true
 TocOpen: false
 comments: false

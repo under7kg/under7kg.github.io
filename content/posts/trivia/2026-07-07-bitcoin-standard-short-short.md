@@ -1,7 +1,8 @@
 ---
 title: "「Bitcoinの碑文」by Claude Fable 5"
+description: "中央銀行理事の裏の顔と、名前を捨てた創造主。2編のショートショートで描くBitcoin Standardへの道。AI（Claude Fable 5）が紡ぐ、深夜2時の静かな買いと動かない100万枚の碑文。10分ごとに刻まれるブロックが未来を書き換える。"
 slug: "trivia/bitcoin-standard-short-short"
-date: "2026-07-05T00:00:00+09:00"
+date: "2026-07-07T00:00:00+09:00"
 categories: [ mumble ]
 tags: [ ai, bitcoin ]
 comments: false

@@ -2,7 +2,7 @@
 title: "ノマドライフのあまり語られないコスト"
 description: "礼賛ブログが書かないノマドの本当のコストを20年の当事者が率直に整理。人間関係・帰属感・社会的信用・体力と親の介護まで、選ぶ前に知るべき代償。"
 slug: nomad/nomad-hidden-costs
-date: 2026-07-30T00:00:18+09:00
+date: 2026-08-13T00:00:18+09:00
 categories: [ nomad ]
 tags: [ survival-strategy, life-style ]
 ShowToc: false

@@ -1,5 +1,6 @@
 ---
 title: "Under7kg Manifesto：システムに縛られない人間の設計図"
+description: "荷物は物理的な重さではなく、依存と恐怖の物質化。LCC機内持ち込み7kgという境界線が分ける、縛られる人間と即応する人間。国家・プラットフォーム・アルゴリズムに委ねない生存戦略を3原則で提示。身一つで国境を越える設計図。"
 slug: under/7kg-manifesto
 date: 2026-07-28T00:00:00+09:00
 categories: [ mumble ]
