@@ -1,7 +1,7 @@
 ---
 title: "Under7kg Manifesto：システムに縛られない人間の設計図"
-slug: under7kg/manifesto
-date: 2026-07-28T12:00:00+09:00
+slug: under/7kg-manifesto
+date: 2026-07-28T00:00:00+09:00
 categories: [ mumble ]
 tags: [ life-style, survival-strategy ]
 ShowToc: true
