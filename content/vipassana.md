@@ -1,6 +1,7 @@
 ---
 title: "ビパッサナ瞑想"
 subtitle: "ビパッサナ（by ゴエンカ氏）について"
+description: "ゴエンカ氏のビパッサナ瞑想10日間コースの体験談。良いところ・気になるところ、タイ・インド・スリランカ・オーストラリアなど各国のセンターの個人的レビュー。"
 slug: "about/vipassana"
 date: "2017-05-29"
 categories: [ m(ind+atter) ]

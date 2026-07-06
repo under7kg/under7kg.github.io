@@ -1,10 +1,10 @@
 ---
 title: "現地語10+10単語：ジョージア"
 description: "ジョージア滞在で即効する必須20語。英語が通じにくくムヘドルリ文字が暗号の異国で、カタコト一語が道を開く。挨拶・買い物・食事の実用フレーズを10+10で厳選。現地人との距離が一気に縮む、笑顔と共に使える流浪者の武器。"
-slug: "trivia/georgian-10+10-words"
+slug: "travel/georgian-10+10-words"
 date: "2026-07-30T00:00:00+09:00"
 categories: [ nomad ]
-tags: [ georgia, trivia, language ]
+tags: [ georgia, language ]
 comments: false
 ---
 

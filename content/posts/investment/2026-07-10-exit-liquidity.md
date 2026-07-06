@@ -2,7 +2,7 @@
 title: 流動性出口（エグジット・リクイディティ）完全解説
 description: "「賢い金の撤退ルート」エグジット・リクイディティの正体を歴史・仕組み・格差から解剖。400年にわたる構造と個人投資家が標的になる理由、防衛策まで。"
 slug: invest/exit-liquidity
-date: 2026-07-24T00:00:09+09:00
+date: 2026-07-10T00:00:09+09:00
 categories: [ wealth ]
 tags: [ investment, exit-liquidity ]
 ShowToc: true

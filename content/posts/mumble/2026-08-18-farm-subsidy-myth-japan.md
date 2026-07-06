@@ -2,7 +2,7 @@
 title: "「欧州並みの補助金を」論の嘘と矛盾：データで浮かび上がる農政言論の5つの大詐欺"
 description: "「欧州並みの補助金を」という農政言論をOECDデータで粉砕。日本の農業保護水準はEU平均の約2倍——補助金が守るのは農家ではなく農協と農水省の利権。"
 slug: mumble/farm-subsidy-myth-japan
-date: 2026-08-11T00:00:00+09:00
+date: 2026-08-18T00:00:00+09:00
 categories: [ mumble ]
 tags: [ structural-defect, media-literacy, macroeconomics, critical-thinking ]
 ShowToc: true

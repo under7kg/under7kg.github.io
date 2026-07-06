@@ -2,7 +2,7 @@
 title: "通貨レイヤー論：世界への扉は誰が狭めるのか"
 description: "経済を6つのレイヤーとして捉える通貨レイヤー論。お金の意味・速度・受益者が層ごとに変わる構造を可視化しニュースの裏の力の流れを読む思考の地図。"
 slug: economy/currency-layers-framework
-date: 2026-07-31T00:00:00+09:00
+date: 2026-10-09T00:00:00+09:00
 categories: [ wealth ]
 tags: [ macroeconomics, forex, inequality, economic-framework, central-bank ]
 ShowToc: true
