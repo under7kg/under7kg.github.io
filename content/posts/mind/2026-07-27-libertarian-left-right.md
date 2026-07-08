@@ -2,7 +2,7 @@
 title: あなたの歯ブラシと、誰かの工場は、同じ「財産」なのか：右と左を分ける、たった一つの問い
 description: "「あなたの歯ブラシと他人の工場は同じ財産か」——この一問が左右を分ける。自己所有権から財産権まで政治対立の最も深い分岐点を問う。"
 slug: mind/libertarian-left-right
-date: 2026-08-17T00:00:00+09:00
+date: 2026-07-27T00:00:00+09:00
 categories: [ m(ind+atter) ]
 tags: [ libertarian, philosophy ]
 ShowToc: true
