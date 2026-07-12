@@ -2,7 +2,7 @@
 title: "空間の収奪：ジェントリフィケーションとは何か"
 description: "デジタルノマドが引き起こすジェントリフィケーションの構造を解説。所得の非対称性・空間の囲い込み・文化の上書きという3つの摩擦から、チェンマイ・バリ・リスボンの実例、そして『空間と体験の収奪』という現代的エスカレーションまで整理する。"
 slug: nomad/gentrification
-date: 2026-07-23T00:00:00+09:00
+date: 2026-09-10T00:00:00+09:00
 categories: [ nomad ]
 tags: [ communication, life-style, inequality ]
 ShowToc: true

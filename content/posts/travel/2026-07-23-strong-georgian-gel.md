@@ -2,7 +2,7 @@
 title: "ジョージア・ラリの強さ"
 description: "ジョージア・ラリ(GEL)がなぜ対ドル・対円で構造的に強いのか、6つの要因から解説。高成長・経常収支改善・観光ブーム・送金流入が通貨需給を支え、円安とのダブルパンチで現地物価が高く感じる理由。両替タイミングの実務的判断にも。"
 slug: "travel/strong-georgian-gel"
-date: "22026-07-23T00:00:00+09:00"
+date: "2026-07-23T00:00:00+09:00"
 categories: [ nomad ]
 tags: [ georgia ]
 comments: false
