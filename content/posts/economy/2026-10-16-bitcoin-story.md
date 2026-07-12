@@ -98,3 +98,7 @@ comments: false
 > 「信じない、あるいは理解できないなら、説得する時間はない、残念ながら」
 > （If you don't believe it or don't get it, I don't have the time to try to convince you, sorry.） 
 > *———　サトシ・ナカモト*
+
+---
+
+*本ブログ記事は一般的な教育目的の情報提供です。個別の投資判断・税務については、ご自身の状況を踏まえた専門家（FP・税理士）への相談を推奨します。*

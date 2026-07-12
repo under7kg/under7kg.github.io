@@ -2,7 +2,7 @@
 title: "🪬「ただひとり」とは"
 description: "「孤独」ではなく「独りあること」の美学を探る。何ものにも染まらず天真爛漫で自由であることの本質をノマドの生き方と重ねて綴る精神的エッセイ。"
 slug: "gurullama/beeing-aloneness"
-date: "2026-08-11T00:00:00+09:00"
+date: "2026-08-18T00:00:00+09:00"
 categories: [ mumble ]
 tags: [ gurullama, aloneness ]
 comments: false

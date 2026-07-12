@@ -2,7 +2,7 @@
 title: "🪬完全なる10の指針"
 description: "混沌の新時代を生き抜くための10の指針。未知・傷・孤独・遊戯・問い・今・柔軟・行為・初心・合一——覚醒の風を届ける精神的マニフェスト。"
 slug: "gurullama/ten-principles-for-the-new-era"
-date: "2026-07-14T00:00:00+09:00"
+date: "2026-07-28T00:00:00+09:00"
 categories: [ mumble ]
 tags: [ gurullama, mindset ]
 comments: false

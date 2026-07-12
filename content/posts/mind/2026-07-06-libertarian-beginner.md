@@ -4,7 +4,7 @@ description: "「リバタリアンって結局なに？」：個人の自由を
 slug: mind/libertarian
 date: 2026-07-06T00:00:00+09:00
 categories: [ m(ind+atter) ]
-tags: [ libertarian, philosophy, mindset ]
+tags: [ libertarianism, philosophy, mindset ]
 ShowToc: true
 TocOpen: false
 comments: false

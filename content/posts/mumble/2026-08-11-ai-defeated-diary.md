@@ -2,7 +2,7 @@
 title: "AIに文章を書かせる、敗北日誌の始まり"
 description: "AIにブログ記事のトーンを分析させ、同じトーンで書かせると自分っぽくなる。論理系の文章は完敗だが、面白さはまだ勝ってるかも？（ぼやき）"
 slug: mumble/ai-defeated-diary
-date: 2026-08-04T00:00:00+09:00
+date: 2026-08-11T00:00:00+09:00
 categories: [ mumble ]
 tags: [ ai ]
 ShowToc: false

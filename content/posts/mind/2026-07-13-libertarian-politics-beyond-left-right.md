@@ -4,7 +4,7 @@ description: "政治は右か左かだけでは測れない。ロン・ポール
 slug: mind/politics-beyond-left-right
 date: 2026-07-13T00:00:00+09:00
 categories: [ m(ind+atter) ]
-tags: [ libertarian, philosophy, critical-thinking ]
+tags: [ libertarianism, philosophy, critical-thinking ]
 ShowToc: true
 TocOpen: false
 comments: false

@@ -1,6 +1,6 @@
 ---
 title: "Monero Bridgeという選択肢：なぜETHアドレスは「裸」で、Swapだけでは隠れられないのか"
-description: ""
+description: "ETH系アドレスが構造的に秘匿性ゼロな理由と、Swapだけでは匿名化できない原理を解説。Monero Bridge＋チャーニングで数学的に資金の線を断ち切る手法を、技術的根拠とともに詳述する。"
 slug: privacy/monero-bridge
 date: 2026-09-03T00:00:30+04:00
 categories: [ nomad ]
