@@ -2,7 +2,7 @@
 title: "「善意の押しつけ」を見抜く：日常のパターナリズム診断"
 description: "「あなたのため」は支配かもしれない。日本社会に潜む善意のパターナリズムをミルの自由論で解明。10の実例と診断ツールで、見えない統制から自由を守る。"
 slug: mind/paternalism-diagnosis-japan
-date: 2026-10-12T10:00:00+09:00
+date: 2026-10-12T00:00:00+09:00
 categories: [ m(ind+atter) ]
 tags: [ mindset, critical-thinking, philosophy, liberty ]
 ShowToc: true

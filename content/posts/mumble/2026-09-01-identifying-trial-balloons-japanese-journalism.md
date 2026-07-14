@@ -2,7 +2,7 @@
 title: 財務省リークを一秒で見抜く方法：観測気球ジャーナリズム識別法
 description: 日経一面の匿名リークは官僚の脚本だ。財務省が投下する観測気球を見抜く5つのシグナルと対抗策を解剖し、メディアを診断する視点を構築する。3000億円の嘘から情報操作の構造を撃ち落とす。
 slug: literacy/identifying-trial-balloons-japanese-journalism
-date: 2026-09-01T10:00:00+09:00
+date: 2026-09-01T00:00:00+09:00
 categories: [ mumble ]
 tags: [ media-literacy, critical-thinking ]
 ShowToc: true

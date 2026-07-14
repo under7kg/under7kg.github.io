@@ -2,7 +2,7 @@
 title: "🪬至人は己なし、神人は功なし、聖人は名なし"
 description: " 荘子の「至人は己なし」の教えを解き明かし、異郷の孤独を自己超越へと変える哲学を構築。一人の旅人が世界と一つになる喜びを発見し、勇敢に今を生きるための内省的メッセージ。"
 slug: gurullama/zhuangzi-philosophy-of-solitude
-date: 2027-03-09T10:00:00+09:00
+date: 2027-03-09T00:00:00+09:00
 categories: [ mumble ]
 tags: [ gurullama ]
 comments: false

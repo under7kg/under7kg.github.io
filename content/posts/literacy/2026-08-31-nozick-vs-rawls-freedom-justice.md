@@ -2,7 +2,7 @@
 title: 自由か公正か：ノージック vs ロールズ、20世紀最大の哲学決闘
 description: 1971年ハーバードで隣り合った2人の哲学者が描いた「自由と公正」の決闘。現代の税・再分配議論の根源を7200字で解剖し、あなたの政治的直感を揺さぶる。
 slug: literacy/nozick-vs-rawls-freedom-justice
-date: 2026-08-31T10:00:00+09:00
+date: 2026-08-31T00:00:00+09:00
 categories: [ m(ind+atter) ]
 tags: [philosophy, libertarianism, justice, redistribution ]
 ShowToc: true

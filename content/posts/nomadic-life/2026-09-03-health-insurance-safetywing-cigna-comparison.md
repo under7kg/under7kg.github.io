@@ -2,7 +2,7 @@
 title: "ノマド健康保険の現実：SafetyWing・Cignaを実務で比較する"
 description: "ノマド保険の7つの罠を見抜き、3層の医療リスクに備える最適戦略を構築する。アフィリエイト記事が絶対書かないSafetyWingとCignaの実務比較、日本国保との使い分け、年齢別推奨プランまで徹底解明。"
 slug: nomad/health-insurance-safetywing-cigna-comparison
-date: 2026-09-03T12:00:00+09:00
+date: 2026-09-03T00:00:00+09:00
 categories: [ nomad ]
 tags: [ health-insurance, survival-strategy ]
 ShowToc: true

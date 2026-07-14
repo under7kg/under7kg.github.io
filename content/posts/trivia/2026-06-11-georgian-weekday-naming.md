@@ -2,7 +2,7 @@
 title: "ジョージア語の曜日の名付け"
 description: "月曜は『2』、金曜は『準備』。ジョージア語の曜日名に刻まれた正教会1400年の記憶。日曜を起点に安息日へ数える月〜木と、聖書由来の金〜日。世界最古のキリスト教国が言語に残した、暦と信仰の交差点を5分で解読。"
 slug: "trivia/georgian-weekday-naming"
-date: "2026-06-11T10:00:00+09:00"
+date: "2026-06-11T00:00:00+09:00"
 categories: [ nomad ]
 tags: [ georgia, trivia, language, christianity ]
 comments: false

@@ -2,7 +2,7 @@
 title: "GrapheneOS: FUTO Keyboardで日本語入力"
 description: "GrapheneOSでFUTO Keyboardを導入し、完全オフラインの日本語音声入力を構築する手順を解説。MozcやFcitx5との比較からプライバシー重視の最適解を見抜く"
 slug: privacy/grapheneos-futo-keyboard-japanese
-date: 2026-10-22T10:00:00+09:00
+date: 2026-10-22T00:00:00+09:00
 categories: [ nomad ]
 tags: [ GrapheneOS, privacy, foss ]
 ---

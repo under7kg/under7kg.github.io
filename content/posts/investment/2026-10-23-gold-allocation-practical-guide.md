@@ -2,7 +2,7 @@
 title: "金は何%持つべきか：宗教でも無視でもない、実務的ゴールド配分論"
 description: "金はインフレヘッジではなく通貨システムへの保険。5〜15%の適正配分、形態別リスク、3拠点分散保管、日本人特有の税制メリットまで、ノマド視点の実務的ゴールド戦略を解明。"
 slug: investment/gold-allocation-practical-guide
-date: 2026-10-23T10:00:00+09:00
+date: 2026-10-23T00:00:00+09:00
 categories: [ wealth ]
 tags: [ gold, investment ]
 ShowToc: true

@@ -2,7 +2,7 @@
 title: ジニ係数という「安心装置」：日本の格差はなぜ統計に映らないか
 description: 「日本の格差はマシ」という嘘。ジニ係数が隠す資産格差・単身貧困・世代間断層の5つの盲点を解剖し、統計に映らない見えない貧困と相対的貧困率15%の実像を暴く。
 slug: mumble/gini-coefficient-hidden-inequality-japan
-date: 2026-07-14T10:00:00+09:00
+date: 2026-07-14T00:00:00+09:00
 categories: [ mumble ]
 tags: [ inequality, critical-thinking ]
 ShowToc: true

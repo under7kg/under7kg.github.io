@@ -2,7 +2,7 @@
 title: ジョージア定期預金活用型リタイア計画
 description: "ジョージアの高金利定期預金を活用したリタイア計画を徹底分析。リスク評価・口座構成・ラダー運用・バケット戦略との組み合わせまで実践的に解説。"
 slug: retirement/georgian-time-deposit-strategy
-date: 2026-06-19T12:00:00+04:00
+date: 2026-06-19T00:00:00+04:00
 categories: [ wealth ]
 tags: [ investment, bucket-strategy, fire, georgia ]
 ShowToc: true

@@ -2,7 +2,7 @@
 title: "お上文化の解剖：お上は替わっても、お上であることは替わらない"
 description: "農林中金の1.9兆円損失に国民が黙るのは無関心ではない。「お上」への服従がデフォルトだからだ。律令から明治・戦後へ、誰がお上かは替わっても「お上に従う関係」は連続した。丸山眞男の無責任の体系とともに、支配を人から関係へと見せ直す。"
 slug: mind/japan-deference-culture
-date: 2026-10-19T10:00:00+09:00
+date: 2026-10-19T00:00:00+09:00
 categories: [ m(ind+atter) ]
 tags: [ mindset, critical-thinking, liberty ]
 ShowToc: true

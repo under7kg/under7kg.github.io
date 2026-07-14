@@ -2,7 +2,7 @@
 title: コスパの悪い人生
 description: 「コスパ悪い」人生の無駄や回り道こそが記憶に残る。10日間の瞑想から発見する、非効率な時間の味わい方。効率化社会で失いがちな、人生の豊かさを取り戻すための哲学的考察。
 slug: mumble/life-with-poor-cost-performance
-date: 2026-09-22T10:00:00+09:00
+date: 2026-09-22T00:00:00+09:00
 categories: [ mumble ]
 tags: []
 ---
