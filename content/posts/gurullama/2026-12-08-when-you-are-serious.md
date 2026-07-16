@@ -1,5 +1,5 @@
 ---
-title: "🪬真面目なとき、あなたは奴隷である。"
+title: "🪬「真面目なとき、あなたは奴隷である。」"
 slug: "gurullama/when-you-are-serious"
 date: "2026-12-08T00:00:00+09:00"
 comments: false

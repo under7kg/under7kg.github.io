@@ -171,3 +171,10 @@ comments: false
 ---
 
 *本稿は11月「自由」月間の第2弾（心理編）。第1弾は[老子の無為とハイエクの自発秩序](/mind/laozi-hayek-spontaneous-order/)（理論編）、第3弾は[フーコーの権力論](/mind/foucault-power-freedom/)（構造編）、最終弾は[アルゴリズム時代の瞑想](/mind/meditation-algorithm-age/)（実践編）。関連して[「お上文化の解剖」](/mind/japan-deference-culture/)・[「思考停止は自己防衛」](/mind/thought-stop-self-defense/)・[「檻は一つではない」](/mind/cage-is-not-one/)もあわせて。*
+
+
+ 一点注意です。本文には未来の予約記事4本へのリンクを埋め込んでいます:
+    ・/mind/laozi-hayek-spontaneous-order/（11/09）
+    ・/mind/foucault-power-freedom/（11/23）
+    ・/mind/meditation-algorithm-age/（11/30）
+    ・/mind/kahneman-fast-thinking/（12/14）

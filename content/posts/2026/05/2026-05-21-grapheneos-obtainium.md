@@ -2,7 +2,7 @@
 title: "アプリ管理はObtainiumで一本化"
 description: "GrapheneOSでObtainiumにF-DroidのURLを登録しアプリ管理を一本化する方法。Proton Pass・AntennaPodなどお気に入りアプリの設定例も紹介。"
 slug: privacy/grapheneos-obtainium
-date: 2026-05-21T09:00:00+04:00
+date: 2026-05-21T09:00:00+09:00
 categories: [ nomad ]
 tags: [ GrapheneOS, appstore, foss ]
 comments: false

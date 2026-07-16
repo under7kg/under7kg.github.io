@@ -2,7 +2,7 @@
 title: "Public Companyの皮を被った私的帝国：法人の個人所有物化とテックロードの台頭"
 description: "SpaceX上場を機に「法人の個人所有物化」を解剖。デュアルクラス構造で議決権を握る創業者がPublic Companyを私的帝国と化す構造的問題を論じる。"
 slug: "mumble/public-company"
-date: "2026-06-13T09:00:00+04:00"
+date: "2026-06-13T09:00:00+09:00"
 categories: [ mumble ]
 tags: [ structural-defect, propaganda, inequality ]
 ShowToc: true

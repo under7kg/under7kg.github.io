@@ -2,7 +2,7 @@
 title: "Mullvad vs Proton VPN"
 description: "VPN選びは信頼の移し替え。匿名性重視Mullvadとコスト重視Protonを、アカウント・支払い・管轄・機能で徹底比較。月€5の現金払いで身元を残さない方法から10台同時接続まで、あなたの脅威モデルに合う選択を5分で判断できる。"
 slug: tech/vpn-mullvad-vs-proton
-date: 2026-09-17T00:00:00+04:00
+date: 2026-09-17T00:00:00+09:00
 categories: [ nomad ]
 tags: [ vpn, proton, mullvad, privacy, crypto ]
 ShowToc: true

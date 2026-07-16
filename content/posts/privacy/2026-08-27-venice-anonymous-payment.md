@@ -2,7 +2,7 @@
 title: "Veniceに匿名で課金する：ウォレット選びとKYCレス入金"
 description: "Venice.aiに本名もカード情報も渡さず課金する方法を解説。接続専用ウォレットの作り方から、XMRなどのプライバシーコインをKYCレスでBase上のUSDCにSwapして入金するまでの全5ステップを網羅。"
 slug: tech/venice-anonymous-payment
-date: 2026-08-27T00:00:00+04:00
+date: 2026-08-27T00:00:00+09:00
 series: [ venice ]
 categories: [ nomad ]
 tags: [ ai, venice, privacy, crypto ]

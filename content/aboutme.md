@@ -1,8 +1,8 @@
 ---
 title: 'about me'
 slug: about/me
-date: 2026-06-08T14:30:15+04:00
-update: 2026-06-04T14:30:15+04:00
+date: 2026-06-08T14:30:15+09:00
+update: 2026-06-04T14:30:15+09:00
 draft: true
 ---
 
