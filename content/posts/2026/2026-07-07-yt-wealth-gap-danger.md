@@ -2,7 +2,7 @@
 title: "アメリカ・富の格差がもたらす危険"
 description: "上位0.1%への富の集中がアメリカにもたらす危険を分析。政治献金によるルール買い・権威主義への傾斜・消費低迷リスク——格差が民主主義を蝕む構造。"
 slug: mumble/wealth-gap-danger
-date: 2026-07-07T06:00:00+09:00
+date: 2026-07-07T00:00:00+09:00
 categories: [ mumble ]
 tags: [ inequality, youtube, law ]
 ShowToc: true

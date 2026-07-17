@@ -2,7 +2,7 @@
 title: 円キャリートレード大規模巻戻し：資産へのインパクトと資産サバイバルの思考フレーム
 description: 円キャリートレードの大規模解消が起きた時の資産への影響と、個人がどう備えるべきかの資産サバイバルフレームを提示する。
 slug: economy/carrytrade-asset-impact-survival
-date: 2026-07-31
+date: 2026-07-31T00:18:24+09:00
 categories: [ wealth ]
 tags: [ carrytrade ]
 ShowToc: true

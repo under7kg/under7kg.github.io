@@ -2,7 +2,7 @@
 title: "円キャリートレードの実態像：調達通貨の歴史と「見えない巨大資金」の正体"
 description: "円がどのように世界の調達通貨になり、その資金がどの経路を通り、なぜ統計の死角に隠れるのか。数字で実態像を浮かび上がらせる。"
 slug: economy/carrytrade-hidden-capital-reality
-date: 2026-07-17
+date: 2026-07-17T00:18:24+09:00
 categories: [ wealth ]
 tags: [ carrytrade ]
 ShowToc: true
