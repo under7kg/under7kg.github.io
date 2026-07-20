@@ -1,10 +1,8 @@
 ---
-title: 利回りより入金力――FIRE達成の最初の10年を決めるもの
+title: "利回りより入金力――FIRE達成の最初の10年を決めるもの"
 description: FIRE達成の速度は利回りより入金力で決まる。月5万×7%と月7万×5%の検証で、最初の10年を制する戦略と1000万円の壁を超えるメンタルモデルを解明する。
 slug: savings-rate-vs-yield-fire
-date: 2026-11-27T10:00:00+09:00
-lastmod: 2026-07-13T10:00:00+09:00
-status: raw
+date: 2026-11-20T10:00:00+09:00
 categories: wealth
 tags:
   - fire

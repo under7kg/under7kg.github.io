@@ -2,7 +2,7 @@
 title: "どこまでリスクを取れるか：FIRE速度の上限はあなたの「耐える力」で決まる"
 description: "FIREの速度はリスク許容度で決まる。当てにならない証券会社の診断ではなく、人的資本と暴落の実体験から、あなたが本当に耐えられるリスクの上限を客観的に見抜く方法を解明する。"
 slug: fire-risk-tolerance-limit
-date: 2026-12-04T12:00:00+09:00
+date: 2026-11-27T12:00:00+09:00
 categories: wealth
 tags:
   - fire
