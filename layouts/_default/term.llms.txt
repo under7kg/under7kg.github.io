@@ -1,4 +1,4 @@
-{{- /* Per-term llms.txt (format: - DATE: TITLE [TAGS]; DESCRIPTION) */ -}}
+{{- /* Per-term llms.txt (format: - DATE: [TITLE](SLUG) [TAGS]; DESCRIPTION) */ -}}
 
 # {{ .Title }}{{ printf "\n" }}
 {{- $pages := .RegularPages -}}
@@ -10,7 +10,7 @@
 {{- if $p.Params.tags -}}
 {{- $taglist = delimit $p.Params.tags ", " -}}
 {{- end -}}
-- {{ $p.Date.Format "2006-01-02" }}: "{{ $p.Title }}" [{{ $taglist }}]; "{{ $p.Description | default ($p.Summary | plainify | truncate 300) }}"{{ printf "\n" }}
+- {{ $p.Date.Format "2006-01-02" }}: ["{{ $p.Title }}"](/{{ $p.Slug }}/); [{{ $taglist }}]; "{{ $p.Description | default ($p.Summary | plainify | truncate 300) }}"{{ printf "\n" }}
 {{- end }}
 {{- end }}
 {{- end -}}
