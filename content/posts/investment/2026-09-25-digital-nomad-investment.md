@@ -2,7 +2,7 @@
 title: "番外編：デジタルノマドのための投資戦略：国境を越えて生きる人の最適解"
 description: "国境を越えて生きるデジタルノマド向け投資戦略。口座インフラ・為替リスク・ロケーションアービトラージ・税務の4課題とモデルポートフォリオ。"
 slug: investment/digital-nomad-investment
-date: 2026-09-18T00:00:00+09:00
+date: 2026-09-25T00:00:00+09:00
 categories: [ wealth ]
 tags: [ investment, survival-strategy, portfolio, forex ]
 ShowToc: true

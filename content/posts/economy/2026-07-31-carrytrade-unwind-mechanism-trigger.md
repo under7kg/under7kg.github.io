@@ -2,7 +2,7 @@
 title: "円キャリートレード解消のメカニズム：2024年8月の解剖と大規模巻戻し局面のトリガー"
 description: "2024年8月のショックのメカニズムを解剖し、大規模巻戻し局面のトリガー条件と制御不能な雪崩のプロセスを検証する。"
 slug: economy/carrytrade-unwind-mechanism-trigger
-date: 2026-07-24T00:18:24+09:00
+date: 2026-07-31T00:18:24+09:00
 categories: [ wealth ]
 tags: [ carrytrade ]
 ShowToc: true

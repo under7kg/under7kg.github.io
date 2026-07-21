@@ -2,7 +2,7 @@
 title: "DCA vs 一括投資：行動リスクを制御する最初の実践"
 description: "データ上は一括投資の方が勝率が高い事実。それでもDCAが推奨される理由を行動ファイナンスの観点から解説。ハイブリッド戦略やレバレッジDCAも紹介。"
 slug: investment/dca-vs-lump-sum
-date: 2026-08-14T00:00:00+09:00
+date: 2026-08-21T00:00:00+09:00
 categories: [ wealth ]
 tags: [ investment, DCA, behavioral-bias ]
 ShowToc: true

@@ -2,7 +2,7 @@
 title: AIを投資戦略に活かす実践ガイド：LLMの選び方からプロの使いこなし術まで
 description: "LLMを投資リサーチに活かす実践ガイド。目的別モデル選びからプロンプト設計、財務分析、ニュース深読み術、プライバシーと過信への注意まで網羅。"
 slug: wealth/llm-investment-guide
-date: 2026-09-25T00:00:09+09:00
+date: 2026-10-02T00:00:09+09:00
 categories: [ wealth ]
 tags: [ investment, LLMs, recommend, privacy ]
 ShowToc: true

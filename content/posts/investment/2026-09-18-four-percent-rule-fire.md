@@ -2,7 +2,7 @@
 title: "4%ルールとFIRE：「増やす」を終え、「使う」ための出口戦略"
 description: "積み上げた資産をどう安全に引き出すか。4%ルールの正体と高インフレ下の盲点、リターン・シーケンス・リスクへの対策を解説する投資シリーズ最終回。"
 slug: investment/four-percent-rule-fire
-date: 2026-09-11T00:00:00+09:00
+date: 2026-09-18T00:00:00+09:00
 categories: [ wealth ]
 tags: [ investment, FIRE, exit-strategy ]
 ShowToc: true

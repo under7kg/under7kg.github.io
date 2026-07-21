@@ -2,7 +2,7 @@
 title: "ポートフォリオ構築の実践例：3つのライフステージで考える「自分の最適解」"
 description: "20代会社員・40代自営業・50代リタイア準備の3パターンでポートフォリオ構築を実演。配分例と行動リスクの注意点をライフステージ別に解説。"
 slug: investment/portfolio-by-life-stage
-date: 2026-08-28T00:00:00+09:00
+date: 2026-09-04T00:00:00+09:00
 categories: [ wealth ]
 tags: [ investment, portfolio ]
 ShowToc: true

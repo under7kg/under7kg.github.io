@@ -2,7 +2,7 @@
 title: "為替ヘッジの有無：海外投資に潜む「もう一つのリスク」"
 description: "海外投資に潜む為替リスクを正面から解説。ヘッジあり・なしの長期リターン差、キャリートレードの危険性、ライフステージ別の判断軸まで。"
 slug: investment/currency-hedge
-date: 2026-09-04T00:00:00+09:00
+date: 2026-09-11T00:00:00+09:00
 categories: [ wealth ]
 tags: [ investment, forex, currency-hedge ]
 ShowToc: true
