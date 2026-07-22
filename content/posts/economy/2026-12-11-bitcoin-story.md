@@ -2,7 +2,7 @@
 title: "ビットコインの物語：匿名の人物が始めた、世界で最も信じがたい金融の実験"
 description: "2枚のピザから国家が保有する兆ドル規模の資産クラスへ。ビットコインが歩んだ16年——規制金融業界との戦い、ウォール街の価格調整、ボラティリティ、そしてBitcoin doesn't careという冷淡なほどの市場主義。個人投資家が知っておくべきアセットの重要性。"
 slug: economy/bitcoin-story
-date: 2026-10-16T00:00:00+09:00
+date: 2026-12-11T00:00:00+09:00
 categories: [ wealth ]
 tags: [ bitcoin, crypt, macroeconomics ]
 ShowToc: true
