@@ -1,7 +1,8 @@
 ---
-title: "🪬ナマステ"
-slug: "gurullama/2027-10-12"
-date: "2027-10-12T00:00:00+09:00"
+title: "🪬真実は、心が開かれたときにのみ見える。"
+description: "心を開くとは、何かを掴もうとするのをやめた瞬間。真実は境界のない今ここに在り、旅路そのものが答えである。"
+slug: "gurullama/open-heart-reveal-truth"
+date: "2027-05-11T00:00:00+09:00"
 comments: false
 categories: [ mumble ]
 tags: [ gurullama ]
