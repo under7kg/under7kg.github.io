@@ -22,6 +22,19 @@ pygmentsCodeFences = true
 #  ShowBreadCrumbs = true
 #  ShowToc = true
 #  TocOpen = true
+
+  [params.homeInfoParams]
+    Title = "自分の足で、自分の意志で！✨"
+    Content = '''
+荷物は7kgより軽いけど、見えない荷物が重い。
+
+国境、通貨、制度、そして「こう生きるべき」という常識を疑い、
+経済と思想、投資とテクノロジー、ノマド生活の現場から、
+変化の激しい時代を軽やかに生きる方法を模索中。
+
+ニュースも数字も、いったん疑ってから読む。自分の頭で考え、自分の足で動く人へ。
+'''
+
   [params.footer]
     text = "⚡ [under7kg@blink](lightning:under7kg@blink.sv) ⚡"
 
