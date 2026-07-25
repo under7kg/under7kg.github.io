@@ -24,7 +24,7 @@ pygmentsCodeFences = true
 #  TocOpen = true
 
   [params.homeInfoParams]
-    Title = "自分の足で、自分の意志で！✨"
+    Title = "お金も、思考も、できるだけ軽やかに✨"
     Content = '''
 本ブログはシステムに縛られない生き方を目指すための記録メモ。
 
@@ -59,7 +59,7 @@ pygmentsCodeFences = true
 [taxonomies]
   category = "categories"
   tag = "tags"
-  series = "series"
+  # series = "series"  # /series/ を手動ページとして使うため taxonomy から外す
 
 # メニュー設定
 [[menu.main]]
@@ -75,10 +75,10 @@ pygmentsCodeFences = true
   weight = 20
 
 # [[menu.main]]
-#   identifier = "series"
-#   name = "series"
-#   url = "/series/"
-#   weight = 25
+# identifier = "series"
+# name = "series"
+# url = "/series/"
+# weight = 25
 
 [[menu.main]]
   identifier = "about"
