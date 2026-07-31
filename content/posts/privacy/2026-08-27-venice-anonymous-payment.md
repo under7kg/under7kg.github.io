@@ -7,7 +7,7 @@ series: [ venice ]
 categories: [ nomad ]
 tags: [ ai, venice, privacy, crypto ]
 ShowToc: true
-TocOpen: false
+TocOpen: true
 comments: false
 ---
 
@@ -16,6 +16,8 @@ comments: false
 この記事では、**接続専用のウォレットを用意し、Monero（XMR）などのプライバシーコインからKYCレスでUSDCにSwapして、Veniceに匿名で課金する**までの流れを、ひとつずつ追っていきます。
 
 なお、暗号資産の扱いは自己責任です。価格変動や送金ミスによる損失は取り戻せません。少額で試しながら、自分が理解できる範囲で進めてください。
+
+> ⚠️ 📍**普段使っているメインのウォレットをそのまま接続するのは避けましょう**📍アドレスが分かると、そのウォレットの取引履歴や残高が紐づいて見られてしまうためです。**接続専用の新しいウォレット**を用意するのが安全。
 
 ## 全体像
 

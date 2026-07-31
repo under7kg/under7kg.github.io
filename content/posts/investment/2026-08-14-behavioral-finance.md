@@ -6,7 +6,7 @@ date: 2026-08-14T00:00:00+09:00
 categories: [ wealth ]
 tags: [ investment, behavioral-bias, recommend ]
 ShowToc: true
-TocOpen: false
+TocOpen: true
 comments: false
 ---
 

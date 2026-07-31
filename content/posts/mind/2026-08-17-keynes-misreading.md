@@ -6,7 +6,7 @@ date: 2026-08-17T00:00:00+09:00
 categories: [ m(ind+atter) ]
 tags: [ keynesian-economics, critical-thinking ]
 ShowToc: true
-TocOpen: false
+TocOpen: true
 comments: false
 ---
 

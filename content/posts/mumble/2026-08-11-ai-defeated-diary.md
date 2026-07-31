@@ -12,7 +12,7 @@ comments: false
 
 最近WEBを徘徊していると、AIで作ったコンテンツを多く見かけるようになりました。
 
-ちょっと時間をとってAIの勉強して、このサイトをAIを使って運用し始めました。[Venice](https://venice.ai/)で色々と聞いてたりLLMの違いを見てみたり、[Fabric](https://github.com/danielmiessler/Fabric)を使って書いた記事をもとに次に何を書くべきか聞いたり、サイトのバランスを整えたり、[Hermes Agent](https://github.com/NousResearch/hermes-agent)でリサーチ文書を書いてもらったり、[Zed](https://github.com/zed-industries/zed)で校正してもらったりしてます。でも、なんかブログをする意味が薄れていく感じがある。。。
+ちょっとAIの勉強時間をとって、このサイトをAIを使って運用し始めました。[Venice](https://venice.ai/)で色々と聞いてたりLLMの違いを見てみたり、[Fabric](https://github.com/danielmiessler/Fabric)を使って書いた記事をもとに次に何を書くべきか聞いたり、サイトのバランスを整えたり、[Hermes Agent](https://github.com/NousResearch/hermes-agent)でリサーチ文書を書いてもらったり、[Zed](https://github.com/zed-industries/zed)で校正してもらったりしてます。でも、なんかブログをする意味が薄れていく感じがある。。。
 
 🌾：気になった方は[Veniceのすすめ](/tech/why-venice/)も一読のほど。
 

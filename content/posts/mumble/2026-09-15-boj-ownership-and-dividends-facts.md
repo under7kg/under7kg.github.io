@@ -5,7 +5,7 @@ slug: mumble/boj-ownership-and-dividends-facts
 date: 2026-09-15T00:00:00+09:00
 categories: [ mumble ]
 tags: [ central-bank ]
-ShowToc: true
+ShowToc: false
 TocOpen: false
 comments: false
 ---

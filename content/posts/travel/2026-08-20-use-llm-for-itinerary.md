@@ -5,7 +5,7 @@ slug: trave/use-llm-for-itinerary
 date: 2026-08-20T12:00:00+09:00
 categories: [ nomad ]
 tags: [ LLMs, travel, ai, recommend ]
-ShowToc: true
+ShowToc: false
 TocOpen: false
 comments: false
 ---

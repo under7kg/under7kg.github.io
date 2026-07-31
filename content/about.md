@@ -30,7 +30,8 @@ AI & KIBOが満載な、
 
 （よろ）
 
-※ 旅の情報（ぼやき）も**Nostr**で時たま発信。
+※ ちょっとした旅の情報も**Nostr**:[Primal.net](https://primal.net/p/nprofile1qqsv8sh2zcxj2u7wz0yt7n9mdlg7ydydns7te8g5j2h9ucdvwn9n3wcrujzdp)で時たま発信。  
+
 
 **Support**  
 このブログが少しでも役に立ったら、Lightning で投げ銭を。  
@@ -39,7 +40,7 @@ AI & KIBOが満載な、
 ---
 
 ## 履歴
-  + 2026-07-04: Support+Footerに投げ銭⚡追加
++ 2026-07-04: Support+Footerに投げ銭⚡追加
 + 2026-07-01: GuruLlama🪬デビュー
 + 2026-06-13: HermesAgentやZed+AIと奮闘中、どこまで自動化すっかな
 + 2026-06-07: mumble:タワゴトカテゴリーも作った（辛口AI代筆）
