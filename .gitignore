@@ -4,6 +4,9 @@
 .DS_Store
 Thumbs.db
 
+## just
+justfile
+
 # VSCode settings
 .vscode/
 .history/
