@@ -1,9 +1,9 @@
 ---
-title: "「2%」と「90%」は誰が決めたのか ― 経済の“聖なる数字”に根拠はあるか"
+title: "「2%」と「90%」は誰が決めたのか"
 description: "インフレ目標2%、財政健全化の債務60%、危険水域の90%。専門家が当然の顔で振りかざすこれらの数字に、実は確かな根拠がない。2%はニュージーランドの財務相がテレビで口走った数字が起源であり、90%閾値はエクセルの集計ミスだった。経済の“聖なる数字”を疑う。"
-slug: mind/sacred-numbers-economics
-date: 2027-01-11T00:00:00+09:00
-categories: [ m(ind+atter) ]
+slug: mumble/sacred-numbers-economics
+date: 2026-12-15T00:00:00+09:00
+categories: [ mumble ]
 tags: [ economy, critical-thinking, philosophy, central-bank ]
 ShowToc: true
 TocOpen: false

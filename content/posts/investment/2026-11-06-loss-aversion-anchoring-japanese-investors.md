@@ -1,11 +1,10 @@
 ---
-title: 頭ではわかっていても負ける：損失回避とアンカリングが日本人投資家を殺す瞬間
-description: 損失回避とアンカリングが投資家を殺す。2024年8月暴落や新NISAの罠を行動経済学で解剖し、脳の仕様を設計で迂回する具体的プロトコルを提示する。
+title: "頭ではわかっていても負ける：損失回避とアンカリングが日本人投資家を殺す瞬間"
+description: "損失回避とアンカリングが投資家を殺す。2024年8月暴落や新NISAの罠を行動経済学で解剖し、脳の仕様を設計で迂回する具体的プロトコルを提示する。"
 slug: investment/loss-aversion-anchoring-japanese-investors
 date: 2026-11-06T00:00:00+09:00
 categories: [ wealth ]
 tags: [ investment, behavioral-bias ]
-model: Claude Opus 4.8
 ShowToc: true
 TocOpen: false
 comments: false
