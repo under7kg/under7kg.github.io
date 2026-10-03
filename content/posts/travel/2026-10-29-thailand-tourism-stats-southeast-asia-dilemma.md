@@ -4,7 +4,7 @@ description: "タイ観光統計が映す「歓迎されない客」の正体。
 slug: travel/thailand-tourism-stats-southeast-asia-dilemma
 date: 2026-10-29T10:00:00+09:00
 categories: [ nomad ]
-tags: [ tourism j]
+tags: [ tourism ]
 ---
 
 タイ観光統計が映し出す東南アジアの構造的ジレンマ ― ノマド時代の「歓迎されない客」問題

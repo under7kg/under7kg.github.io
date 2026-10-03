@@ -1,8 +1,8 @@
 ---
-title: ノマドの通信インフラ：e-SIM vs ローカルSIM
-description: 海外滞在時のSIM・eSIM運用戦略を構築。ネパールやタイなど5カ国の現地SIM事情とXMR決済可能なSilentlinkを活用し、通信断を回避するノウハウを解明。
+title: "ノマドの通信インフラ：e-SIM vs ローカルSIM"
+description: "海外滞在時のSIM・eSIM運用戦略を構築。ネパールやタイなど5カ国の現地SIM事情とXMR決済可能なSilentlinkを活用し、通信断を回避するノウハウを解明。"
 slug: nomad/overseas-sim-esim-strategy
-date: 2026-11-26T12:00:00+09:00
+date: 2026-11-26T00:00:00+09:00
 categories: [ nomad ]
 tags: [ sim ]
 ---
